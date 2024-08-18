@@ -134,29 +134,29 @@ nhohun_trade_tc = {
 	names = { name = "NHOHUN_TRADE_TC_Root_Culture_GetName" } 
 	names = { name = "NHOHUN_TRADE_TC_Trade_Company" } 
 }
-pehkenahl_trade_tc = {
+south_breuvra_trade_tc = {
 	color = { 59 151 28 } 
 	provinces={
 		2353 2204 2270 2285 2205 2257 2225 2296 2245 2206 2286 2273 2300 2297 2266 2216 2393 2259 2210 2251 2232 2252 2236 2207 2201 2209 2334 2384 2261 2200 2271 2242 2226 2267 2292 2254 2315 3002 2272 2255 2234 2214 2274 2228 2387 2388 2231 3010 2203 2313 2217 2202 2213 2312 2246 2215 2263 2247 2332 2230 2277 2989 2295 2238 2360 2358 2307 2278
 	} 
-	names = { name = "PEHKENAHL_TRADE_TC_Root_Culture_GetName" } 
-	names = { name = "PEHKENAHL_TRADE_TC_Trade_Company" } 
+	names = { name = "SOUTH_BREUVRA_TC_Root_Culture_GetName" } 
+	names = { name = "SOUTH_BREUVRA_TC_Trade_Company" } 
 }
-tomewhebo_trade_tc = {
+north_breuvra_trade_tc = {
 	color = { 211 128 25 } 
 	provinces={
 		2282 2305 2369 2322 2348 2344 3042 2356 2260 2298 2363 2301 2395 2376 2319 2290 2396 2314 2355 2308 2385 2366 2303 2398 2349 2934 2264 2346 2329 2368 2279 2299 3050 2362 2317 2381 2364 2325 2280 2378 2337 2309 2354 2383 2386 2288 3032 2340 2318 2324 2375 2357 2370 2330 2336 2390 2338 2294 2379 2347 2380 2311 2377 2400 2373 2382 2392 2327 2341 2361 2328 2343 2289 2391 2281 2345 2304 2316 2335 2333 2351 2276 2321 2268 2342 2372 2331 2371
 	} 
-	names = { name = "TOMEWHEBO_TRADE_TC_Root_Culture_GetName" } 
-	names = { name = "TOMEWHEBO_TRADE_TC_Trade_Company" } 
+	names = { name = "NORTH_BREUVRA_TC_Root_Culture_GetName" } 
+	names = { name = "NORTH_BREUVRA_TC_Trade_Company" } 
 }
-rassery_trade_tc = {
+central_breuvra_trade_tc = {
 	color = { 50 43 247 } 
 	provinces={
 		2287 2365 2293 2291 2233 2223 2222 2394 2221 2339 2235 2397 2218 2243 2306 2269 2240 2350 2401 2220 2323 2399 2302 2248 2359 2249 2241 2265 2374 2284 2275 2283 2211 2258 2212 2262 2352 2250 2224 2256 2253 2326 2237 2227 2229 2208 2244 2320 2239 2219 2310 2389 2367
 	} 
-	names = { name = "RASSERY_TRADE_TC_Root_Culture_GetName" } 
-	names = { name = "RASSERY_TRADE_TC_Trade_Company" } 
+	names = { name = "CENTRAL_BREUVRA_TC_Root_Culture_GetName" } 
+	names = { name = "CENTRAL_BREUVRA_TC_Trade_Company" } 
 }
 wsely_trade_tc = {
 	color = { 51 59 158 } 

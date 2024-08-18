@@ -22,4 +22,136 @@ breuvran = {
 			
 		}
 	}
+	kolic = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	asmurg = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	eplean = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	beshaedal = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	lufluasian = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	shesal = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	scoetho = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	glesian = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	ubrean = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	musweyton = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	resnar = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	acran = {
+		male_names = {
+		
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
 }

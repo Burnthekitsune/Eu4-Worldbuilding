@@ -10,8 +10,11 @@ luqhrasa_superregion = {
 liosac_superregion = {
 	mansernhih_region tisdar_region nasete_region horter_region ditrer_region lyfmos_region 
 }
-lesforonni_superregion = {
-	serovo_region neveet_region glacrinibe_region ttetenne_region poove_region 
+north_breuvra_superregion = {
+	serovo_region ttetenne_region poove_region 
+}
+south_breuvra_superregion = {
+	neveet_region glacrinibe_region
 }
 wjotatcien_superregion = {
 	rsitk_region suahh_region lsacpesg_region pralifefn_region givos_region risilutaen_region lumtur_region caleten_region setilve_region ymdhae_region 

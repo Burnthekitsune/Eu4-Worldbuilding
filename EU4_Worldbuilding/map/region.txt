@@ -208,7 +208,7 @@ rsitk_region = {
 }
 ttetenne_region = {
 	areas = {
-		drodt_area nanafu_area nhaol_area cannn_area dlafe_area messeri_area effethena_area
+		drodt_area nanafu_area nhaol_area cannn_area dlafe_area messeri_area effethena_area hanigsune_area propanas_area boknem_area
 	}
 }
 rbihr_region = {
@@ -453,7 +453,7 @@ latifee_region = {
 }
 serovo_region = {
 	areas = {
-		hanigsune_area tadfnotegy_area uwsosite_area sasrenb_area tempethy_area propanas_area toltaesodt_area dachy_area boknem_area remokvo_area
+		tadfnotegy_area uwsosite_area sasrenb_area tempethy_area toltaesodt_area dachy_area remokvo_area
 	}
 }
 neveet_region = {
