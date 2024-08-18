@@ -1,0 +1,5 @@
+technology_group = mesoamerican
+government = republic
+religion = orthodox
+primary_culture = russian
+capital = 9

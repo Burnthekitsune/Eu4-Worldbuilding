@@ -1,0 +1,719 @@
+
+# Land regions
+
+llpikely_region = {
+	areas = {
+		ogrot_area
+	}
+}
+caleten_region = {
+	areas = {
+		retry_area sewogkf_area criwg_area
+	}
+}
+gaytel_region = {
+	areas = {
+		rrretcewa_area riinh_area eagpoct_area
+	}
+}
+rnaum_region = {
+	areas = {
+		mrotor_area erctoawo_area cyasp_area
+	}
+}
+reppacr_region = {
+	areas = {
+		salialto_area tirln_area lleend_area nihtes_area
+	}
+}
+guesinle_region = {
+	areas = {
+		pnalofiphu_area vlotfef_area chete_area
+	}
+}
+sacbige_region = {
+	areas = {
+		fotwor_area lgephe_area thodi_area
+	}
+}
+wbidang_region = {
+	areas = {
+		pycand_area ranalomla_area
+	}
+}
+tregfoc_region = {
+	areas = {
+		geanaru_area inrarl_area
+	}
+}
+neriga_region = {
+	areas = {
+		bynlhtae_area pannhr_area oqeeteluwt_area labie_area
+	}
+}
+amppisraon_region = {
+	areas = {
+		tacygs_area tesebt_area nidyhu_area pitnu_area feterah_area
+	}
+}
+stiwis_region = {
+	areas = {
+		rarhar_area mtumobi_area
+	}
+}
+heohweb_region = {
+	areas = {
+		fistom_area nvoih_area rywoil_area peenist_area cmengelare_area
+	}
+}
+piotume_region = {
+	areas = {
+		dbaro_area siarloan_area poegirg_area fraosr_area ciekii_area
+	}
+}
+secla_region = {
+	areas = {
+		nagepedro_area tetoh_area rowrig_area teptans_area
+	}
+}
+vobibsesoel_region = {
+	areas = {
+		duvang_area craab_area
+	}
+}
+ttisce_region = {
+	areas = {
+		lifrerenaki_area urrutrsaot_area enjony_area niigo_area nehtapi_area
+	}
+}
+lyfmos_region = {
+	areas = {
+		mawagytanh_area itpett_area pauhe_area noudt_area helyloe_area antiywunce_area
+	}
+}
+rriln_region = {
+	areas = {
+		eswihe_area pfipycteot_area ebjectedo_area dhirnil_area cvere_area wotced_area msazi_area
+	}
+}
+ycweve_region = {
+	areas = {
+		dnark_area oewnena_area ehmoce_area toeftiutp_area
+	}
+}
+ditrer_region = {
+	areas = {
+		titter_area pertpystive_area fuitnewo_area hoasa_area
+	}
+}
+tkohe_region = {
+	areas = {
+		thisvat_area mhenh_area melil_area sasbece_area atfegtense_area
+	}
+}
+mistr_region = {
+	areas = {
+		cawfir_area lsotsawhi_area hattraol_area sowhtanse_area
+	}
+}
+huugye_region = {
+	areas = {
+		sneho_area stexne_area somsse_area netsit_area
+	}
+}
+fovat_region = {
+	areas = {
+		itvace_area goolh_area hbatt_area ppeapity_area stsoot_area
+	}
+}
+ndlitogo_region = {
+	areas = {
+		tnryl_area dherer_area wendir_area smeha_area cgeile_area bresolwatio_area rayltn_area
+	}
+}
+teoknirs_region = {
+	areas = {
+		gmonikc_area hagenityeh_area enuxca_area cescapg_area suenetbo_area
+	}
+}
+setilve_region = {
+	areas = {
+		tdesac_area atneit_area ebsilyute_area neeva_area vafeg_area rhube_area
+	}
+}
+mlaot_region = {
+	areas = {
+		koontyfansa_area nombapsheh_area hrihc_area ctrardla_area cseticot_area keald_area
+	}
+}
+kacwone_region = {
+	areas = {
+		pniss_area lhofandios_area smotosj_area raplefewent_area ahweap_area
+	}
+}
+westnewi_region = {
+	areas = {
+		tonteos_area hanner_area nilatuin_area snawu_area puton_area tinporaty_area
+	}
+}
+toohn_region = {
+	areas = {
+		onguin_area osveth_area pazre_area tyfhwemo_area hroehp_area exronsian_area
+	}
+}
+risilutaen_region = {
+	areas = {
+		ohjeledeit_area ewpineecidc_area buwanint_area hseod_area lehteftah_area malls_area
+	}
+}
+titet_region = {
+	areas = {
+		legmor_area sogiin_area fannopyret_area pehmyssiyn_area tacatel_area rbiof_area
+	}
+}
+didpar_region = {
+	areas = {
+		serlfrievg_area eismusa_area tosnurs_area runsoquedma_area vgalrm_area hackic_area
+	}
+}
+ssetl_region = {
+	areas = {
+		sarelisuas_area lorunip_area cimpleunt_area stadk_area vupluf_area
+	}
+}
+ymdhae_region = {
+	areas = {
+		leyhackoo_area efwnet_area castb_area citienait_area iuath_area tisoh_area alrcehs_area
+	}
+}
+niofe_region = {
+	areas = {
+		bomonp_area faheso_area wtacn_area fsetta_area nrepirsy_area ovdeh_area
+	}
+}
+ogturnal_region = {
+	areas = {
+		cyloat_area nodsla_area aswtnuttiyf_area dilrey_area gdolp_area hwync_area
+	}
+}
+ensiheereng_region = {
+	areas = {
+		brify_area flonat_area dtacit_area mirohur_area cfecasane_area byutn_area rentit_area
+	}
+}
+rsitk_region = {
+	areas = {
+		sonivos_area achit_area sinlirpataa_area edenr_area tifassuke_area
+	}
+}
+ttetenne_region = {
+	areas = {
+		drodt_area nanafu_area nhaol_area cannn_area dlafe_area messeri_area effethena_area
+	}
+}
+rbihr_region = {
+	areas = {
+		fuigbelg_area mnins_area metelny_area liccs_area
+	}
+}
+shabmoanshi_region = {
+	areas = {
+		cidtne_area wwegnodg_area huutidy_area trasetios_area nseer_area ibopeisefi_area nedevisoon_area
+	}
+}
+glacrinibe_region = {
+	areas = {
+		cattere_area soposal_area fniin_area sofpuser_area csylmtied_area
+	}
+}
+fetlifniot_region = {
+	areas = {
+		messrilytio_area dtimet_area sehmutena_area sistewn_area uustaw_area ruheasa_area noamehe_area
+	}
+}
+tisdar_region = {
+	areas = {
+		trelt_area stonewent_area tierere_area troold_area stavua_area cfromo_area cesho_area
+	}
+}
+wroglt_region = {
+	areas = {
+		eddemaon_area ldols_area duraeb_area dapbadtsete_area
+	}
+}
+halocimetv_region = {
+	areas = {
+		daninsaos_area htoled_area sehtt_area rooet_area apahwmint_area volol_area
+	}
+}
+gerhhese_region = {
+	areas = {
+		wihtaloos_area itfuct_area tamorneh_area sovol_area rsleed_area scahn_area anvydsa_area
+	}
+}
+givos_region = {
+	areas = {
+		rnrat_area cuttawheip_area xinvymb_area toyvl_area enees_area isterdateon_area gactaw_area
+	}
+}
+hoanu_region = {
+	areas = {
+		terid_area tvada_area ifrireir_area tyatd_area sesdesr_area tactasyra_area
+	}
+}
+suahh_region = {
+	areas = {
+		ebltudriem_area lsaomt_area torfigsoew_area srlei_area rhacr_area ssaec_area ssebw_area
+	}
+}
+dilnyss_region = {
+	areas = {
+		ciceinhi_area howisy_area rridite_area hanay_area lenwune_area oclach_area joclit_area
+	}
+}
+temoht_region = {
+	areas = {
+		sitre_area charhense_area hqudr_area tdycidara_area
+	}
+}
+setetfactee_region = {
+	areas = {
+		rawobalp_area soaht_area bomhov_area agpticihoun_area nosdu_area
+	}
+}
+eqyoh_region = {
+	areas = {
+		udireo_area soupty_area cutcededeto_area
+	}
+}
+usvestmywt_region = {
+	areas = {
+		bnaud_area sofvyny_area ehylihy_area dehytoltebd_area diffelafte_area
+	}
+}
+lsacpesg_region = {
+	areas = {
+		shohr_area hlafd_area anrutonr_area hoaritw_area
+	}
+}
+ctedett_region = {
+	areas = {
+		ofscasca_area wasilour_area funmt_area hepdo_area cqeepi_area natata_area
+	}
+}
+sunpte_region = {
+	areas = {
+		miaatd_area sakeh_area littand_area hinore_area saptysatutc_area suttee_area
+	}
+}
+soyht_region = {
+	areas = {
+		lataon_area uhgegsmytr_area clept_area winpiisd_area
+	}
+}
+nasete_region = {
+	areas = {
+		teene_area gyssleo_area imvornit_area tohgh_area filem_area resmhan_area waspinsiwil_area crepridw_area
+	}
+}
+onrose_region = {
+	areas = {
+		nritits_area cafnir_area nwhatigy_area infakmatias_area waahl_area ontarapr_area
+	}
+}
+lumtur_region = {
+	areas = {
+		nutsoga_area fenen_area bigws_area tyadut_area mhorerric_area amaring_area
+	}
+}
+krofoh_region = {
+	areas = {
+		wbidcir_area rhultat_area auriohce_area trahninian_area ranfaeh_area hynsymn_area wmika_area vicusoes_area
+	}
+}
+pasor_region = {
+	areas = {
+		awelr_area roitreng_area gielh_area pewphese_area lticefoh_area tisito_area uvtocam_area
+	}
+}
+cildige_region = {
+	areas = {
+		liubtry_area rlengi_area ykuhihy_area yblabe_area sfitage_area cteik_area
+	}
+}
+sheda_region = {
+	areas = {
+		tocot_area wpeso_area xioce_area lahty_area benaq_area doucsu_area rendas_area belevke_area
+	}
+}
+ecgisi_region = {
+	areas = {
+		dazsfevriur_area phorl_area pgiri_area noksi_area orsape_area vhoptec_area weugnv_area erdanari_area
+	}
+}
+ltark_region = {
+	areas = {
+		torolhylleo_area nnowe_area suoni_area naona_area wdynesh_area hdawet_area sardirx_area
+	}
+}
+delornuon_region = {
+	areas = {
+		nivnhahu_area motetacsupe_area estenadi_area hiclar_area lutaco_area tpnagh_area cudgnisl_area noteto_area moletuve_area
+	}
+}
+hontt_region = {
+	areas = {
+		difyl_area sactiac_area dihoul_area teitk_area
+	}
+}
+pofareel_region = {
+	areas = {
+		saditulaeh_area niosew_area hobtwi_area tondr_area tamodo_area
+	}
+}
+pralifefn_region = {
+	areas = {
+		ehsuval_area alrnoasbe_area safhatteor_area qaarrion_area fgaihdtsig_area sdapo_area enhubd_area
+	}
+}
+smesi_region = {
+	areas = {
+		pmuosur_area waikind_area dewrtapar_area hetcarlera_area fmylr_area tetrelmo_area lotentug_area
+	}
+}
+poevith_region = {
+	areas = {
+		inrficrar_area owhap_area achean_area fyrpn_area ciatuhirenh_area
+	}
+}
+gutatoes_region = {
+	areas = {
+		triuc_area namor_area itsubahto_area ictegetaes_area ecedyriw_area kleim_area
+	}
+}
+serva_region = {
+	areas = {
+		sepgo_area tsodols_area ogficetyyr_area hyhee_area apalahr_area madmun_area nahano_area wednur_area prorigb_area sryem_area cuhhizt_area
+	}
+}
+chiifi_region = {
+	areas = {
+		gledh_area ehwucot_area ltatu_area arpbihomont_area itosfaoh_area lirsmpanroe_area seoth_area ehptiln_area
+	}
+}
+saswe_region = {
+	areas = {
+		mthamsh_area cemnagtial_area nanheming_area tedxien_area knafn_area laseset_area pricoci_area
+	}
+}
+tcourte_region = {
+	areas = {
+		delitiva_area nyarond_area atihs_area trins_area adtarhisirr_area mixlela_area annarteob_area afzerg_area
+	}
+}
+vodik_region = {
+	areas = {
+		tpiok_area pudnale_area ptojekr_area riere_area depit_area sdich_area sanyfod_area sgite_area somuseoh_area kinale_area uxghungo_area
+	}
+}
+inufeenevu_region = {
+	areas = {
+		tecasiso_area ctsetgus_area axtsedation_area ompoftatde_area onrirarteon_area inapymitiid_area aihkam_area nynmush_area cevid_area tibictor_area
+	}
+}
+dexusum_region = {
+	areas = {
+		variano_area ghowpw_area obdte_area sasiarch_area rasovted_area ducyhe_area colusremaen_area cusbritiweo_area mentgel_area
+	}
+}
+mansernhih_region = {
+	areas = {
+		petenriar_area prenigge_area rboef_area otrentior_area vabatgd_area notmot_area tatdaronheg_area towny_area
+	}
+}
+poove_region = {
+	areas = {
+		hontifpiel_area ratigdefn_area seadont_area cimpset_area reonet_area hemar_area sesdeh_area tpaalat_area
+	}
+}
+wurttusce_region = {
+	areas = {
+		srofahlel_area nranani_area lleln_area cawnge_area ehsoe_area latulu_area intigiv_area
+	}
+}
+maditihe_region = {
+	areas = {
+		rarogtityon_area undisr_area gedamr_area muurf_area bedngniawc_area hyctew_area sotcar_area sitheg_area bonnesr_area histhocw_area jydgit_area uhcasn_area
+	}
+}
+latifee_region = {
+	areas = {
+		shynr_area bityh_area todctauh_area tenaag_area kmeme_area nylrog_area epvihare_area
+	}
+}
+serovo_region = {
+	areas = {
+		hanigsune_area tadfnotegy_area uwsosite_area sasrenb_area tempethy_area propanas_area toltaesodt_area dachy_area boknem_area remokvo_area
+	}
+}
+neveet_region = {
+	areas = {
+		gipre_area srmaas_area feotidg_area dneoh_area whatn_area pleheuc_area nterfh_area eheentosr_area feetders_area enpmeenilt_area
+	}
+}
+acarci_region = {
+	areas = {
+		hetsion_area lrowinh_area soavfh_area rdadw_area pukhan_area arinm_area luudar_area vuebdebf_area
+	}
+}
+sintc_region = {
+	areas = {
+		cembenatein_area rifvet_area shuns_area lnyfst_area slbocn_area
+	}
+}
+padalry_region = {
+	areas = {
+		icrulanv_area tanno_area diins_area etbenleoh_area rusegara_area sosurip_area atotege_area hasni_area reoging_area rwirl_area
+	}
+}
+tuwpca_region = {
+	areas = {
+		mitneky_area piibry_area tunade_area tercos_area onacief_area daveh_area
+	}
+}
+omile_region = {
+	areas = {
+		sutolkehked_area tmeup_area uxesnva_area teriwt_area uwyad_area treich_area aftociel_area soprusoen_area ivcafteanre_area
+	}
+}
+copsontsota_region = {
+	areas = {
+		soosd_area haslentoyl_area nopwecc_area nluyt_area dteemd_area anxeofy_area ahitb_area saomynv_area wrresi_area rytova_area segnyf_area
+	}
+}
+ryisos_region = {
+	areas = {
+		enedynh_area tedhucete_area
+	}
+}
+horter_region = {
+	areas = {
+		lemnae_area facgin_area niiet_area sbiet_area holds_area minedimm_area rinawser_area
+	}
+}
+beiufowul_region = {
+	areas = {
+		rewataetsde_area hacpeurn_area teulr_area svicdn_area nnpysu_area warjancu_area multr_area ilverotsuns_area bhepdo_area phynm_area raveyw_area
+	}
+}
+
+# Sea regions
+
+pyrrig_sea_region = {
+	areas = {
+		polmynr_sea_area soyut_sea_area ttearomt_sea_area elutoaremi_sea_area indosrdo_sea_area lebicac_sea_area cemeno_sea_area wernir_sea_area haprur_sea_area
+	}
+}
+snymitc_sea_region = {
+	areas = {
+		ncueded_sea_area degtat_sea_area toicnun_sea_area teheon_sea_area jemmal_sea_area pawtiwniw_sea_area goblfsiend_sea_area teluri_sea_area tehsi_sea_area
+	}
+}
+attygisg_sea_region = {
+	areas = {
+		sehpeny_sea_area drocw_sea_area seledtone_sea_area resiigl_sea_area closset_sea_area smars_sea_area drytp_sea_area xotfer_sea_area
+	}
+}
+bonfoliih_sea_region = {
+	areas = {
+		hroln_sea_area cagnatume_sea_area hraad_sea_area sosop_sea_area thauwln_sea_area inting_sea_area tserereon_sea_area nhecs_sea_area nehear_sea_area
+	}
+}
+nleed_sea_region = {
+	areas = {
+		ertocegeap_sea_area nitirefso_sea_area ettasc_sea_area biztaon_sea_area jreni_sea_area adcuen_sea_area
+	}
+}
+luelnint_sea_region = {
+	areas = {
+		ropot_sea_area syarisa_sea_area dyhister_sea_area puotteon_sea_area ohnecdave_sea_area dmota_sea_area
+	}
+}
+riwkop_sea_region = {
+	areas = {
+		bumerce_sea_area feallesl_sea_area nerotife_sea_area rroim_sea_area retiesa_sea_area tdjoif_sea_area srehn_sea_area
+	}
+}
+wtcacsure_sea_region = {
+	areas = {
+		lkark_sea_area sdeor_sea_area tadit_sea_area enventhort_sea_area crodela_sea_area
+	}
+}
+nairl_sea_region = {
+	areas = {
+		ugmaricdian_sea_area ssyoth_sea_area tivop_sea_area efderiunro_sea_area dohase_sea_area ebenorfome_sea_area stilo_sea_area apcuders_sea_area manstrudsio_sea_area
+	}
+}
+hfush_sea_region = {
+	areas = {
+		bothsu_sea_area bofry_sea_area wicut_sea_area luslig_sea_area possilegery_sea_area sdaelrod_sea_area
+	}
+}
+ctaon_sea_region = {
+	areas = {
+		thihnaluof_sea_area meiwtaen_sea_area locifeld_sea_area ttetoti_sea_area lendg_sea_area noetla_sea_area
+	}
+}
+meennoep_sea_region = {
+	areas = {
+		sbefsehd_sea_area deamdr_sea_area ssripsac_sea_area dmaary_sea_area briedh_sea_area hlimd_sea_area inlene_sea_area caulta_sea_area
+	}
+}
+selbe_sea_region = {
+	areas = {
+		ecren_sea_area arinfe_sea_area geetrur_sea_area netnynypod_sea_area cadte_sea_area
+	}
+}
+frantopla_sea_region = {
+	areas = {
+		hlasi_sea_area ewnow_sea_area boinr_sea_area hieet_sea_area sohitlioc_sea_area teadins_sea_area latteu_sea_area cettaf_sea_area
+	}
+}
+geega_sea_region = {
+	areas = {
+		ceunr_sea_area tnaro_sea_area npeti_sea_area ylconi_sea_area adelt_sea_area
+	}
+}
+unseah_sea_region = {
+	areas = {
+		leegoa_sea_area niatuhe_sea_area hutheod_sea_area clutito_sea_area
+	}
+}
+rigee_sea_region = {
+	areas = {
+		elgolun_sea_area igele_sea_area hiletlir_sea_area caoep_sea_area epfarroh_sea_area
+	}
+}
+dfouc_sea_region = {
+	areas = {
+		fubohe_sea_area hahnme_sea_area rucica_sea_area
+	}
+}
+seamger_sea_region = {
+	areas = {
+		caudlo_sea_area tpeta_sea_area sleeer_sea_area tunket_sea_area
+	}
+}
+nhyhe_sea_region = {
+	areas = {
+		ctuld_sea_area sickah_sea_area csoaside_sea_area hovofae_sea_area
+	}
+}
+wweand_sea_region = {
+	areas = {
+		hrisyvoef_sea_area cenrel_sea_area pafyti_sea_area ytmitsaid_sea_area aivser_sea_area rafovat_sea_area
+	}
+}
+driid_sea_region = {
+	areas = {
+		cyntih_sea_area ersihieto_sea_area cesmi_sea_area supcu_sea_area
+	}
+}
+xmidtong_sea_region = {
+	areas = {
+		detorceat_sea_area rapaprerfos_sea_area tiiclur_sea_area sniro_sea_area ostivetn_sea_area nlaalama_sea_area
+	}
+}
+american_east_coast_region = {}
+anatolia_region = {}
+arabia_region = {}
+arabian_sea_region = {}
+atlantic_south_america_region = {}
+australia_region = {}
+balkan_region = {}
+baltic_region = {}
+baltic_sea_region = {}
+bengal_region = {}
+brazil_region = {}
+british_isles_region = {}
+burma_region = {}
+california_region = {}
+canada_region = {}
+caribbean_sea_region = {}
+carpathia_region = {}
+carribeans_region = {}
+cascadia_region = {}
+caucasia_region = {}
+central_africa_region = {}
+central_america_region = {}
+central_asia_region = {}
+colombia_region = {}
+coromandel_region = {}
+crimea_region = {}
+deccan_region = {}
+east_africa_region = {}
+east_china_sea_region = {}
+east_indian_ocean_region = {}
+east_siberia_region = {}
+egypt_region = {}
+france_region = {}
+great_lakes_region = {}
+great_plains_region = {}
+guinea_region = {}
+hindusthan_region = {}
+horn_of_africa_region = {}
+hudson_bay_region = {}
+iberia_region = {}
+indo_china_region = {}
+indonesia_region = {}
+italy_region = {}
+japan_region = {}
+khorasan_region = {}
+kongo_region = {}
+korea_region = {}
+la_plata_region = {}
+low_countries_region = {}
+maghreb_region = {}
+malaya_region = {}
+manchuria_region = {}
+mashriq_region = {}
+mediterrenean_region = {}
+mexico_region = {}
+mississippi_region = {}
+moluccas_region = {}
+mongolia_region = {}
+niger_region = {}
+north_atlantic_region = {}
+north_china_region = {}
+north_east_pacific_region = {}
+north_german_region = {}
+north_west_pacific_region = {}
+northeast_america_region = {}
+oceanea_region = {}
+pacific_south_america_region = {}
+persia_region = {}
+peru_region = {}
+poland_region = {}
+random_new_world_region = {}
+rio_grande_region = {}
+russia_region = {}
+ruthenia_region = {}
+sahel_region = {}
+scandinavia_region = {}
+south_africa_region = {}
+south_atlantic_region = {}
+south_china_region = {}
+south_china_sea_region = {}
+south_east_pacific_region = {}
+south_german_region = {}
+south_indian_ocean_region = {}
+south_west_pacific_region = {}
+southeast_america_region = {}
+tibet_region = {}
+upper_peru_region = {}
+ural_region = {}
+west_african_sea_region = {}
+west_india_region = {}
+west_indian_ocean_region = {}
+west_siberia_region = {}
+xinan_region = {}

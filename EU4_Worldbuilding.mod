@@ -1,0 +1,15 @@
+name="EU4_Worldbuilding"
+replace_path="history/provinces"
+replace_path="common/bookmarks"
+replace_path="common/province_names"
+replace_path="history/provinces"
+replace_path="history/diplomacy"
+replace_path="history/countries"
+replace_path="common/great_projects"
+replace_path="common/natives"
+tags={
+	"map"
+}
+picture="nameofapicture.png"
+supported_version="v1.37.*"
+path="mod/EU4_Worldbuilding"

@@ -1,0 +1,10 @@
+base_manpower = 5
+base_tax = 5
+base_production = 5
+center_of_trade = 1
+hre = yes
+religion = god_of_the_sea
+owner = A00
+controller = A00
+add_core = A00
+culture = utsano

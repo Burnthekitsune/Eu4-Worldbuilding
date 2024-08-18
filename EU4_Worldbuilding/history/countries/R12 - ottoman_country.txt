@@ -1,0 +1,5 @@
+technology_group = ottoman
+government = republic
+religion = orthodox
+primary_culture = russian
+capital = 13

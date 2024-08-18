@@ -1,0 +1,137 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+imperial = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	
+	center_of_religion = 2287
+	
+	god_of_the_sea = {
+		color = { 39 94 184 }
+		icon = 1
+		allowed_conversion = {
+			god_of_the_mountain
+			god_of_the_people
+			divine_union
+		}
+		country = {
+			
+		}
+		
+		country_as_secondary = {
+			
+		}
+		
+		hre_religion = yes
+		
+		on_convert = {
+			change_religion = god_of_the_sea
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+		
+		heretic = { }
+	}
+	
+	god_of_the_mountain = {
+		color = { 97 57 5 }
+		icon = 2
+		allowed_conversion = {
+			god_of_the_sea
+			god_of_the_people
+			divine_union
+		}
+		country = {
+			
+		}
+		
+		country_as_secondary = {
+			
+		}
+		
+		on_convert = {
+			change_religion = god_of_the_mountain
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+		
+		heretic = { }
+	}
+	
+	god_of_the_people = {
+		color = { 0 161 86 }
+		icon = 3
+		allowed_conversion = {
+			god_of_the_sea
+			god_of_the_mountain
+			divine_union
+		}
+		country = {
+			
+		}
+		
+		country_as_secondary = {
+			
+		}
+		
+		on_convert = {
+			change_religion = god_of_the_people
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+		
+		heretic = { }
+	}
+	
+	divine_union = {
+		color = { 230 31 9 }
+		icon = 4
+		allowed_conversion = {
+			god_of_the_sea
+			god_of_the_mountain
+			god_of_the_people
+		}
+		country = {
+			
+		}
+		
+		country_as_secondary = {
+			
+		}
+		
+		hre_heretic_religion = yes
+		
+		on_convert = {
+			change_religion = divine_union
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+		
+		heretic = { }
+		
+		date = 1500.1.1
+	}
+	
+}

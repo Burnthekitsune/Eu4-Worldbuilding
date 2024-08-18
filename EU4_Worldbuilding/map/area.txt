@@ -1,0 +1,3151 @@
+
+# Land areas
+
+diffelafte_area = { # N=1
+	24 
+}
+eddemaon_area = { # N=1
+	61 
+}
+bnaud_area = { # N=1
+	75 
+}
+uhgegsmytr_area = { # N=1
+	86 
+}
+inrficrar_area = { # N=1
+	444 
+}
+netsit_area = { # N=1
+	523 
+}
+ciatuhirenh_area = { # N=1
+	562 
+}
+fyrpn_area = { # N=1
+	565 
+}
+rawobalp_area = { # N=1
+	684 
+}
+duvang_area = { # N=1
+	724 
+}
+difyl_area = { # N=1
+	834 
+}
+teitk_area = { # N=1
+	946 
+}
+srlei_area = { # N=1
+	972 
+}
+yblabe_area = { # N=1
+	1806 
+}
+tdycidara_area = { # N=1
+	2135 
+}
+charhense_area = { # N=1
+	2191 
+}
+tpaalat_area = { # N=1
+	2934 
+}
+daveh_area = { # N=1
+	2958 
+}
+tercos_area = { # N=1
+	2968 
+}
+slbocn_area = { # N=1
+	2973 
+}
+enedynh_area = { # N=1
+	3006 
+}
+tedhucete_area = { # N=1
+	3028 
+}
+phorl_area = { # N=1
+	3035 
+}
+ogrot_area = { # N=2
+	2962 2961 
+}
+rusegara_area = { # N=2
+	2975 2980 
+}
+dazsfevriur_area = { # N=3
+	2573 2566 3011 
+}
+jydgit_area = { # N=2
+	1999 2113 
+}
+nidyhu_area = { # N=3
+	1896 1904 2030 
+}
+cimpleunt_area = { # N=3
+	3049 3027 2996 
+}
+variano_area = { # N=3
+	551 561 575 
+}
+sowhtanse_area = { # N=2
+	2497 2423 
+}
+minedimm_area = { # N=4
+	2918 2913 2920 2921 
+}
+cesho_area = { # N=4
+	3007 2981 2978 3043 
+}
+alrcehs_area = { # N=3
+	483 433 516 
+}
+sofpuser_area = { # N=3
+	2388 2286 2315 
+}
+lsaomt_area = { # N=3
+	879 674 871 
+}
+sardirx_area = { # N=3
+	911 749 844 
+}
+alrnoasbe_area = { # N=2
+	954 923 
+}
+cmengelare_area = { # N=4
+	1665 2104 1966 1745 
+}
+effethena_area = { # N=4
+	2336 2396 2289 2371 
+}
+runsoquedma_area = { # N=3
+	54 134 53 
+}
+noudt_area = { # N=3
+	577 826 681 
+}
+waikind_area = { # N=2
+	1087 185 
+}
+aihkam_area = { # N=4
+	2651 2705 2647 2696 
+}
+fuitnewo_area = { # N=4
+	952 1020 3034 761 
+}
+flonat_area = { # N=3
+	78 275 180 
+}
+ciceinhi_area = { # N=4
+	893 131 155 261 
+}
+belevke_area = { # N=4
+	1788 1820 2097 1817 
+}
+nwhatigy_area = { # N=2
+	316 1076 
+}
+ltatu_area = { # N=3
+	2436 2419 2415 
+}
+pertpystive_area = { # N=5
+	816 1024 865 908 904 
+}
+mawagytanh_area = { # N=5
+	670 685 661 899 634 
+}
+dihoul_area = { # N=2
+	3040 3021 
+}
+cidtne_area = { # N=2
+	231 373 
+}
+tyadut_area = { # N=3
+	2994 1058 978 
+}
+torfigsoew_area = { # N=2
+	655 867 
+}
+adtarhisirr_area = { # N=4
+	193 200 160 205 
+}
+sasrenb_area = { # N=2
+	2262 2219 
+}
+peenist_area = { # N=4
+	1922 1705 1888 1674 
+}
+retry_area = { # N=4
+	950 773 795 722 
+}
+rowrig_area = { # N=3
+	1979 2964 1723 
+}
+thisvat_area = { # N=4
+	1392 1470 1374 1424 
+}
+mentgel_area = { # N=4
+	941 636 731 798 
+}
+rinawser_area = { # N=4
+	2927 2928 2926 2925 
+}
+lnyfst_area = { # N=4
+	2749 2600 2590 2619 
+}
+smotosj_area = { # N=4
+	1938 1969 2009 1952 
+}
+noteto_area = { # N=3
+	1402 1359 1354 
+}
+ewpineecidc_area = { # N=5
+	738 570 807 763 1086 
+}
+trahninian_area = { # N=4
+	1161 1559 1168 1203 
+}
+pfipycteot_area = { # N=4
+	2604 2747 2602 2597 
+}
+apalahr_area = { # N=4
+	2447 2429 2428 2437 
+}
+pycand_area = { # N=2
+	2972 3036 
+}
+tsodols_area = { # N=3
+	2433 2426 2451 
+}
+fotwor_area = { # N=3
+	2886 2873 2871 
+}
+delitiva_area = { # N=4
+	171 206 297 166 
+}
+shynr_area = { # N=3
+	2180 2149 2159 
+}
+ykuhihy_area = { # N=3
+	1721 1833 1661 
+}
+wotced_area = { # N=4
+	2691 2642 2757 2645 
+}
+rarogtityon_area = { # N=4
+	2055 2036 2043 2026 
+}
+ehwucot_area = { # N=2
+	2412 2410 
+}
+faheso_area = { # N=4
+	1272 1307 1306 1483 
+}
+raveyw_area = { # N=4
+	1537 1422 1566 1366 
+}
+sasbece_area = { # N=3
+	1563 1446 1522 
+}
+rasovted_area = { # N=3
+	875 1085 979 
+}
+niigo_area = { # N=3
+	1313 1288 1241 
+}
+htoled_area = { # N=4
+	1635 1593 3025 1581 
+}
+pannhr_area = { # N=2
+	2145 2152 
+}
+histhocw_area = { # N=3
+	1978 2015 2006 
+}
+gmonikc_area = { # N=4
+	2531 2507 2538 2579 
+}
+fgaihdtsig_area = { # N=2
+	912 1030 
+}
+noamehe_area = { # N=3
+	1652 1599 1607 
+}
+soosd_area = { # N=4
+	1784 1912 1779 1851 
+}
+neeva_area = { # N=4
+	750 719 478 559 
+}
+sarelisuas_area = { # N=2
+	1232 1488 
+}
+erdanari_area = { # N=4
+	2588 2519 2562 2576 
+}
+muurf_area = { # N=4
+	2051 2088 2087 2067 
+}
+smeha_area = { # N=4
+	1294 1155 1285 1186 
+}
+saomynv_area = { # N=4
+	1669 1746 1708 1717 
+}
+pnalofiphu_area = { # N=2
+	169 248 
+}
+enuxca_area = { # N=4
+	2502 2547 2504 2976 
+}
+kleim_area = { # N=4
+	1393 1540 1514 1322 
+}
+nyarond_area = { # N=5
+	137 222 147 300 114 
+}
+eheentosr_area = { # N=3
+	3002 3010 2257 
+}
+ehmoce_area = { # N=3
+	2155 2193 2194 
+}
+inrarl_area = { # N=3
+	2937 2936 2935 
+}
+diins_area = { # N=3
+	1100 1131 1574 
+}
+rridite_area = { # N=3
+	213 351 378 
+}
+roitreng_area = { # N=3
+	237 641 400 
+}
+stexne_area = { # N=2
+	532 72 
+}
+saditulaeh_area = { # N=2
+	486 961 
+}
+saptysatutc_area = { # N=4
+	1142 1543 1193 1200 
+}
+bomonp_area = { # N=4
+	1338 1282 1277 1531 
+}
+cudgnisl_area = { # N=4
+	1341 1343 1311 1345 
+}
+inapymitiid_area = { # N=6
+	2653 2727 2758 2742 2722 2671 
+}
+ecedyriw_area = { # N=6
+	1365 1467 1529 1378 1305 1390 
+}
+vicusoes_area = { # N=4
+	1234 1147 1120 2992 
+}
+eswihe_area = { # N=5
+	2612 2634 2606 2720 2746 
+}
+toltaesodt_area = { # N=3
+	2212 2233 2220 
+}
+wpeso_area = { # N=5
+	1757 1763 1825 1772 2128 
+}
+crepridw_area = { # N=3
+	517 862 740 
+}
+ibopeisefi_area = { # N=4
+	393 251 456 412 
+}
+wbidcir_area = { # N=4
+	1158 1197 1532 1139 
+}
+atfegtense_area = { # N=3
+	1426 1416 1443 
+}
+mrotor_area = { # N=5
+	2906 2899 2897 2909 2898 
+}
+sryem_area = { # N=5
+	2498 2466 2487 2472 2474 
+}
+kinale_area = { # N=6
+	2792 2769 2770 2779 2800 2793 
+}
+qaarrion_area = { # N=3
+	884 919 872 
+}
+safhatteor_area = { # N=3
+	1006 898 924 
+}
+aftociel_area = { # N=4
+	375 451 348 399 
+}
+nanafu_area = { # N=5
+	2325 2370 2390 2321 2385 
+}
+wendir_area = { # N=4
+	1198 1265 1500 1185 
+}
+miaatd_area = { # N=4
+	1123 1144 1145 1128 
+}
+undisr_area = { # N=4
+	2042 2112 2100 2063 
+}
+cemnagtial_area = { # N=3
+	108 39 327 
+}
+somuseoh_area = { # N=4
+	2854 2819 2832 2820 
+}
+efwnet_area = { # N=3
+	346 490 837 
+}
+tpiok_area = { # N=6
+	2815 2863 2784 2783 2817 2856 
+}
+ohjeledeit_area = { # N=4
+	665 638 725 1003 
+}
+prenigge_area = { # N=3
+	545 553 885 
+}
+rdadw_area = { # N=3
+	2580 2556 2578 
+}
+messeri_area = { # N=5
+	2395 2345 2330 2335 2354 
+}
+mhorerric_area = { # N=5
+	3000 3001 2977 3039 3038 
+}
+uxghungo_area = { # N=5
+	2821 2816 2797 2799 2811 
+}
+dbaro_area = { # N=5
+	2062 1700 1905 2069 1766 
+}
+cawfir_area = { # N=3
+	2484 2496 2431 
+}
+stsoot_area = { # N=6
+	2715 2723 3054 2734 2733 2711 
+}
+natata_area = { # N=4
+	1502 1459 1460 1493 
+}
+poegirg_area = { # N=5
+	1631 1614 1638 1621 1755 
+}
+leyhackoo_area = { # N=4
+	574 470 390 566 
+}
+raplefewent_area = { # N=4
+	1838 1844 1987 1964 
+}
+wrresi_area = { # N=5
+	2990 1698 1694 1828 1696 
+}
+rnrat_area = { # N=5
+	616 659 666 1080 556 
+}
+huutidy_area = { # N=4
+	178 417 890 196 
+}
+intigiv_area = { # N=3
+	906 448 492 
+}
+rbiof_area = { # N=5
+	1977 2083 2065 2081 1738 
+}
+dherer_area = { # N=5
+	1150 1189 1545 1214 1153 
+}
+cusbritiweo_area = { # N=6
+	530 475 697 521 443 1062 
+}
+latulu_area = { # N=4
+	384 542 518 374 
+}
+tirln_area = { # N=5
+	1401 1400 1519 1480 1464 
+}
+rytova_area = { # N=5
+	1679 1671 1643 2066 1762 
+}
+cteik_area = { # N=4
+	1633 1799 1636 1637 
+}
+teulr_area = { # N=6
+	1472 1228 1530 1235 1573 1252 
+}
+uustaw_area = { # N=5
+	2072 1586 1594 1583 1598 
+}
+chete_area = { # N=2
+	296 387 
+}
+piibry_area = { # N=3
+	1983 1917 2098 
+}
+nahano_area = { # N=6
+	2486 2457 2469 2493 2473 2471 
+}
+rentit_area = { # N=4
+	88 113 784 84 
+}
+ompoftatde_area = { # N=4
+	2610 2595 2627 2605 
+}
+tondr_area = { # N=2
+	818 874 
+}
+itsubahto_area = { # N=5
+	1316 1506 1471 1318 1342 
+}
+rywoil_area = { # N=5
+	1623 1692 1657 1856 1663 
+}
+hroehp_area = { # N=6
+	266 218 236 243 158 186 
+}
+ehylihy_area = { # N=5
+	762 107 37 57 217 
+}
+sinlirpataa_area = { # N=4
+	1028 848 1093 821 
+}
+nutsoga_area = { # N=4
+	1069 981 1010 1009 
+}
+wwegnodg_area = { # N=3
+	282 278 519 
+}
+epvihare_area = { # N=3
+	2154 2173 2167 
+}
+wmika_area = { # N=5
+	1191 1129 1125 1106 1107 
+}
+craab_area = { # N=3
+	813 967 628 
+}
+torolhylleo_area = { # N=3
+	1094 902 959 
+}
+fuigbelg_area = { # N=2
+	506 535 
+}
+dneoh_area = { # N=4
+	2216 2210 2207 2203 
+}
+osveth_area = { # N=6
+	152 74 242 3037 87 498 
+}
+volol_area = { # N=5
+	1580 1584 1588 1582 1786 
+}
+sneho_area = { # N=2
+	25 768 
+}
+tunade_area = { # N=4
+	1993 1973 1967 2068 
+}
+etbenleoh_area = { # N=4
+	1097 1187 1101 1096 
+}
+castb_area = { # N=4
+	245 176 168 434 
+}
+dewrtapar_area = { # N=4
+	26 60 15 99 
+}
+pehmyssiyn_area = { # N=5
+	1892 2123 1997 1841 1827 
+}
+feetders_area = { # N=4
+	2206 2232 2200 2296 
+}
+rewataetsde_area = { # N=5
+	1304 1309 1325 1299 1397 
+}
+hyhee_area = { # N=4
+	2424 2425 2430 2440 
+}
+cannn_area = { # N=6
+	2305 2328 2362 2337 2290 2346 
+}
+amaring_area = { # N=4
+	993 1054 1026 962 
+}
+apahwmint_area = { # N=5
+	1899 3013 1579 1578 1587 
+}
+drodt_area = { # N=6
+	2381 2343 2311 2356 2363 2342 
+}
+pitnu_area = { # N=6
+	1943 1937 1958 1910 2021 1934 
+}
+oqeeteluwt_area = { # N=3
+	2137 2160 2166 
+}
+enpmeenilt_area = { # N=4
+	2231 2242 2272 2247 
+}
+colusremaen_area = { # N=6
+	646 558 505 426 613 514 
+}
+hackic_area = { # N=7
+	202 883 573 336 285 170 831 
+}
+csylmtied_area = { # N=6
+	2273 2297 2387 2358 2271 2278 
+}
+weugnv_area = { # N=4
+	2572 2535 2585 2567 
+}
+svicdn_area = { # N=5
+	1330 1384 1302 1280 1572 
+}
+atneit_area = { # N=5
+	497 420 732 463 442 
+}
+fenen_area = { # N=4
+	1017 1044 1032 974 
+}
+nhaol_area = { # N=5
+	2377 3050 2400 3042 2379 
+}
+nilatuin_area = { # N=5
+	1437 1527 1406 1382 1526 
+}
+ivcafteanre_area = { # N=4
+	881 789 605 529 
+}
+legmor_area = { # N=4
+	1748 1765 2004 2119 
+}
+fniin_area = { # N=3
+	2360 2989 2259 
+}
+atotege_area = { # N=3
+	3047 2986 3015 
+}
+ebsilyute_area = { # N=3
+	502 707 415 
+}
+ciekii_area = { # N=7
+	1676 2126 1628 1725 1804 2079 1656 
+}
+lorunip_area = { # N=4
+	1112 1276 1138 1164 
+}
+cevid_area = { # N=7
+	2609 2658 2692 2695 2615 2625 2753 
+}
+tifassuke_area = { # N=5
+	986 689 650 922 1095 
+}
+suttee_area = { # N=5
+	1118 1194 1541 1159 1124 
+}
+nseer_area = { # N=6
+	366 319 116 125 133 198 
+}
+gedamr_area = { # N=5
+	2049 2013 2035 1970 1935 
+}
+hetsion_area = { # N=6
+	2574 2550 2503 2501 2513 2511 
+}
+rboef_area = { # N=5
+	730 538 625 851 917 
+}
+citienait_area = { # N=5
+	269 617 418 503 398 
+}
+cuhhizt_area = { # N=5
+	2450 2463 2434 2477 2459 
+}
+axtsedation_area = { # N=6
+	2673 2687 2718 2665 2682 2648 
+}
+sovol_area = { # N=4
+	1866 1819 2045 1923 
+}
+otrentior_area = { # N=4
+	524 621 854 1002 
+}
+hanigsune_area = { # N=4
+	2241 2235 2306 2359 
+}
+pewphese_area = { # N=6
+	980 181 455 1023 195 188 
+}
+wasilour_area = { # N=3
+	1513 1523 1478 
+}
+uhcasn_area = { # N=5
+	2089 2003 2052 2016 2082 
+}
+hanay_area = { # N=4
+	183 126 182 117 
+}
+moletuve_area = { # N=4
+	1385 1411 1412 1387 
+}
+sgite_area = { # N=5
+	2767 2771 2772 2764 2761 
+}
+ebjectedo_area = { # N=6
+	2635 2624 2633 2618 2596 2594 
+}
+laseset_area = { # N=2
+	7 50 
+}
+luudar_area = { # N=3
+	3020 2948 2947 
+}
+sofvyny_area = { # N=4
+	163 1018 81 122 
+}
+rarhar_area = { # N=2
+	2146 2196 
+}
+labie_area = { # N=2
+	2133 2164 
+}
+prorigb_area = { # N=4
+	2422 2465 2427 2420 
+}
+nosdu_area = { # N=4
+	774 392 239 280 
+}
+hagenityeh_area = { # N=6
+	2528 2510 2557 2517 2520 2505 
+}
+antiywunce_area = { # N=3
+	317 968 639 
+}
+rwirl_area = { # N=4
+	3026 1113 1528 2954 
+}
+melil_area = { # N=3
+	1414 1570 1436 
+}
+tacygs_area = { # N=7
+	2078 2050 1855 1949 1900 2038 1956 
+}
+dachy_area = { # N=3
+	2227 2211 2229 
+}
+sdapo_area = { # N=3
+	982 918 999 
+}
+gipre_area = { # N=4
+	2230 2245 2226 2332 
+}
+anxeofy_area = { # N=5
+	2115 1865 1753 1736 1714 
+}
+ebltudriem_area = { # N=6
+	716 790 886 785 726 712 
+}
+icrulanv_area = { # N=4
+	1508 1099 2960 2959 
+}
+tyatd_area = { # N=4
+	1913 1878 1998 1886 
+}
+tamorneh_area = { # N=6
+	1778 1807 1797 1810 2028 1710 
+}
+salialto_area = { # N=5
+	1420 1447 1451 1479 1556 
+}
+troold_area = { # N=6
+	704 3030 1039 436 447 830 
+}
+tanno_area = { # N=4
+	1534 1103 1110 1230 
+}
+serlfrievg_area = { # N=5
+	59 33 882 43 150 
+}
+nivnhahu_area = { # N=5
+	1375 1417 1415 1321 1504 
+}
+srofahlel_area = { # N=4
+	526 682 897 494 
+}
+gactaw_area = { # N=5
+	658 1029 786 591 710 
+}
+tmeup_area = { # N=6
+	1064 560 513 772 381 632 
+}
+riinh_area = { # N=4
+	1165 1561 1301 1178 
+}
+nnpysu_area = { # N=5
+	1220 1333 1323 1332 1287 
+}
+rhube_area = { # N=3
+	480 423 464 
+}
+naona_area = { # N=5
+	1043 991 3017 949 1014 
+}
+nylrog_area = { # N=4
+	2157 2150 2165 2144 
+}
+tnryl_area = { # N=5
+	1273 1226 1207 1336 1218 
+}
+lifrerenaki_area = { # N=4
+	1262 1319 1337 1281 
+}
+cfecasane_area = { # N=5
+	103 73 52 267 929 
+}
+tpnagh_area = { # N=6
+	1409 1352 1403 1372 1340 1364 
+}
+sakeh_area = { # N=4
+	1174 1132 1143 1119 
+}
+facgin_area = { # N=6
+	2942 2943 2938 2941 2940 2939 
+}
+sosurip_area = { # N=5
+	1190 1212 1104 1130 1102 
+}
+itfuct_area = { # N=6
+	1830 1884 1789 1921 2071 1906 
+}
+nynmush_area = { # N=6
+	2641 2613 2620 2601 2683 2737 
+}
+seoth_area = { # N=4
+	2414 2411 2417 2500 
+}
+isterdateon_area = { # N=6
+	823 594 680 692 679 425 
+}
+segnyf_area = { # N=5
+	1796 1660 1642 1666 1678 
+}
+dteemd_area = { # N=6
+	1701 2014 1996 1847 1681 2059 
+}
+imvornit_area = { # N=5
+	753 600 350 489 337 
+}
+ahitb_area = { # N=6
+	1881 1728 1767 2096 1829 1849 
+}
+whatn_area = { # N=3
+	2292 2334 2228 
+}
+dtacit_area = { # N=5
+	164 1022 44 118 31 
+}
+awelr_area = { # N=4
+	546 234 596 998 
+}
+terid_area = { # N=4
+	1903 2018 1951 1924 
+}
+liubtry_area = { # N=5
+	2074 2114 1893 1840 2110 
+}
+mthamsh_area = { # N=4
+	69 51 17 1082 
+}
+sitheg_area = { # N=6
+	2019 2011 2057 1986 2010 1995 
+}
+nombapsheh_area = { # N=7
+	2839 2849 2859 2842 2836 2860 2869 
+}
+filem_area = { # N=5
+	453 314 347 1000 379 
+}
+suenetbo_area = { # N=4
+	2533 2508 2530 2514 
+}
+hoaritw_area = { # N=2
+	1057 449 
+}
+ssaec_area = { # N=5
+	996 870 758 955 783 
+}
+wednur_area = { # N=6
+	2495 2442 2441 2490 2478 2444 
+}
+riere_area = { # N=7
+	2888 2803 2802 2814 2808 2834 2806 
+}
+resmhan_area = { # N=7
+	525 409 1007 325 1060 331 817 
+}
+metelny_area = { # N=3
+	657 994 827 
+}
+suoni_area = { # N=5
+	601 947 729 814 931 
+}
+goolh_area = { # N=7
+	2672 2756 2664 2697 2729 2708 2726 
+}
+remokvo_area = { # N=6
+	2399 2293 2248 2249 2250 2283 
+}
+rooet_area = { # N=7
+	1603 1691 1600 1759 1611 1662 1727 
+}
+wtacn_area = { # N=6
+	1381 1442 1225 1267 1430 1253 
+}
+hseod_area = { # N=5
+	1047 755 803 635 835 
+}
+geanaru_area = { # N=3
+	3052 3046 3044 
+}
+petenriar_area = { # N=4
+	976 653 776 832 
+}
+bhepdo_area = { # N=6
+	1386 1312 1525 1379 1383 1245 
+}
+ctrardla_area = { # N=6
+	2844 2845 2892 2847 2894 2857 
+}
+nvoih_area = { # N=6
+	2105 1697 1608 1640 1627 1675 
+}
+ovdeh_area = { # N=5
+	1435 1490 1331 1295 1310 
+}
+urrutrsaot_area = { # N=5
+	1296 1324 1320 1410 1261 
+}
+uxesnva_area = { # N=7
+	966 997 471 318 308 396 858 
+}
+cescapg_area = { # N=5
+	2586 2540 2543 2552 2509 
+}
+tesebt_area = { # N=7
+	1824 1814 1821 1783 1850 1823 1929 
+}
+byutn_area = { # N=4
+	802 105 80 151 
+}
+eismusa_area = { # N=6
+	172 62 112 110 77 930 
+}
+pauhe_area = { # N=8
+	1033 660 868 861 759 593 863 672 
+}
+lemnae_area = { # N=9
+	2915 2924 2932 2931 2933 2982 2930 2923 2929 
+}
+lahty_area = { # N=6
+	2120 1781 1846 1961 1798 2000 
+}
+soaht_area = { # N=2
+	252 572 
+}
+siarloan_area = { # N=5
+	1646 1777 1668 1837 1641 
+}
+hontifpiel_area = { # N=6
+	2344 2376 2314 2331 2392 2324 
+}
+cseticot_area = { # N=5
+	2882 2851 2868 2984 2850 
+}
+multr_area = { # N=6
+	1268 1250 1279 1350 1291 1535 
+}
+triuc_area = { # N=4
+	3045 3053 3008 2956 
+}
+malls_area = { # N=4
+	720 604 736 1055 
+}
+hanner_area = { # N=7
+	1484 1496 1407 1491 1474 1380 1388 
+}
+nihtes_area = { # N=5
+	1512 1564 1456 1448 1453 
+}
+sdich_area = { # N=6
+	2778 2763 2768 2794 2786 2762 
+}
+cyasp_area = { # N=6
+	2905 2903 2908 2904 2901 2974 
+}
+lticefoh_area = { # N=3
+	140 67 41 
+}
+dlafe_area = { # N=7
+	2372 2386 2317 2373 2316 2338 2327 
+}
+hyctew_area = { # N=5
+	2090 2086 2024 2092 2099 
+}
+dapbadtsete_area = { # N=2
+	194 16 
+}
+lehteftah_area = { # N=5
+	793 787 820 700 856 
+}
+onacief_area = { # N=3
+	2091 1940 1960 
+}
+sehtt_area = { # N=6
+	1626 1615 1606 1592 1693 2034 
+}
+gledh_area = { # N=4
+	2438 2418 2458 3031 
+}
+vhoptec_area = { # N=4
+	2506 2537 2549 2587 
+}
+pazre_area = { # N=8
+	238 91 272 197 179 64 199 279 
+}
+hasni_area = { # N=5
+	1108 1109 1192 1346 1105 
+}
+lotentug_area = { # N=3
+	48 35 287 
+}
+nranani_area = { # N=5
+	1025 775 668 677 748 
+}
+tecasiso_area = { # N=7
+	2760 2655 2638 2709 2652 2663 2614 
+}
+niosew_area = { # N=4
+	691 864 778 945 
+}
+cutcededeto_area = { # N=2
+	699 161 
+}
+ducyhe_area = { # N=7
+	751 606 536 678 504 1066 985 
+}
+edenr_area = { # N=4
+	846 877 1046 1015 
+}
+sepgo_area = { # N=6
+	2499 2481 2492 2464 2467 2482 
+}
+haslentoyl_area = { # N=7
+	1785 1639 1735 2116 1647 1620 1722 
+}
+wdynesh_area = { # N=3
+	878 676 1021 
+}
+winpiisd_area = { # N=2
+	901 148 
+}
+stadk_area = { # N=4
+	1152 1552 1156 2957 
+}
+anvydsa_area = { # N=7
+	1683 1760 2131 1787 1870 1682 1869 
+}
+agpticihoun_area = { # N=3
+	249 215 223 
+}
+cembenatein_area = { # N=6
+	2631 2616 2754 2599 2690 2661 
+}
+pmuosur_area = { # N=7
+	13 66 10 32 1012 157 20 
+}
+sewogkf_area = { # N=7
+	891 602 1089 564 780 673 836 
+}
+bedngniawc_area = { # N=6
+	2041 2048 2031 2047 2085 2061 
+}
+brify_area = { # N=5
+	119 364 101 177 920 
+}
+gielh_area = { # N=3
+	175 142 220 
+}
+sotcar_area = { # N=5
+	2039 1980 1989 1988 2040 
+}
+exronsian_area = { # N=4
+	139 102 115 333 
+}
+sogiin_area = { # N=7
+	1724 1902 2102 1860 1862 1826 1737 
+}
+shohr_area = { # N=4
+	903 552 984 715 
+}
+tonteos_area = { # N=8
+	1548 1458 1481 1475 1465 1557 1473 1544 
+}
+bynlhtae_area = { # N=5
+	2163 2134 2179 2132 2140 
+}
+ofscasca_area = { # N=6
+	1432 1482 1445 1539 1524 1413 
+}
+benaq_area = { # N=7
+	1775 1734 1704 1802 1822 1754 1875 
+}
+vuebdebf_area = { # N=6
+	2584 2524 2548 2554 2571 2542 
+}
+bonnesr_area = { # N=5
+	2032 2033 2054 2037 2046 
+}
+tierere_area = { # N=7
+	622 957 690 667 581 340 860 
+}
+hdawet_area = { # N=5
+	2991 975 1035 990 2983 
+}
+atihs_area = { # N=7
+	208 232 271 212 612 124 154 
+}
+achit_area = { # N=5
+	792 824 713 709 859 
+}
+itpett_area = { # N=8
+	718 1084 701 567 756 708 1070 791 
+}
+feterah_area = { # N=7
+	1887 2044 1857 1874 1930 1894 1963 
+}
+tosnurs_area = { # N=8
+	71 1079 944 95 3022 111 93 138 
+}
+somsse_area = { # N=2
+	97 47 
+}
+motetacsupe_area = { # N=6
+	1489 1510 1377 1361 1439 1425 
+}
+koontyfansa_area = { # N=6
+	2884 2855 2866 2848 2885 2853 
+}
+infakmatias_area = { # N=4
+	439 597 354 921 
+}
+sanyfod_area = { # N=8
+	2867 2822 2864 2823 2813 2827 2838 2812 
+}
+dehytoltebd_area = { # N=5
+	79 106 92 334 540 
+}
+hobtwi_area = { # N=2
+	588 413 
+}
+nopwecc_area = { # N=7
+	1780 1731 1718 1808 2103 1648 1651 
+}
+hbatt_area = { # N=9
+	2745 2740 2730 2703 2739 2702 2728 2707 2721 
+}
+oclach_area = { # N=2
+	210 869 
+}
+cattere_area = { # N=6
+	2270 2225 2251 2263 2214 2307 
+}
+tocot_area = { # N=9
+	1791 1719 1699 1733 1726 2073 1716 1984 1741 
+}
+vlotfef_area = { # N=5
+	293 1001 723 329 156 
+}
+reonet_area = { # N=6
+	2369 2322 2349 2355 2304 2318 
+}
+hrihc_area = { # N=7
+	2824 2858 2852 2835 2841 2833 2805 
+}
+dhirnil_area = { # N=8
+	2626 2744 2657 2681 2611 2644 2689 2622 
+}
+nnowe_area = { # N=5
+	825 937 1005 939 987 
+}
+ctsetgus_area = { # N=8
+	2591 2592 2607 2608 2593 2659 2598 2603 
+}
+lrowinh_area = { # N=5
+	2521 2987 2512 2581 2526 
+}
+duraeb_area = { # N=2
+	12 829 
+}
+reoging_area = { # N=5
+	2998 1501 1121 1111 1098 
+}
+snawu_area = { # N=6
+	1434 1520 1391 1515 1438 1452 
+}
+tisito_area = { # N=4
+	260 970 141 130 
+}
+sasiarch_area = { # N=5
+	599 481 764 728 1075 
+}
+itosfaoh_area = { # N=4
+	2488 2432 2413 2416 
+}
+enhubd_area = { # N=3
+	2985 973 1031 
+}
+trelt_area = { # N=7
+	534 688 457 543 873 611 806 
+}
+notmot_area = { # N=6
+	694 263 401 228 363 584 
+}
+fistom_area = { # N=6
+	1632 1687 1612 1618 1619 1602 
+}
+lenwune_area = { # N=7
+	305 1081 167 143 459 165 184 
+}
+uwyad_area = { # N=7
+	323 515 777 454 522 960 427 
+}
+arpbihomont_area = { # N=3
+	2409 2408 2483 
+}
+ratigdefn_area = { # N=7
+	2282 2319 2366 2298 2281 2294 2303 
+}
+srmaas_area = { # N=3
+	2312 2236 2234 
+}
+fraosr_area = { # N=8
+	1617 1713 1634 2117 1645 1658 1707 1630 
+}
+nehtapi_area = { # N=6
+	1542 1334 1263 1329 1421 1259 
+}
+waahl_area = { # N=4
+	554 406 609 839 
+}
+criwg_area = { # N=7
+	910 900 842 1008 934 801 1065 
+}
+bomhov_area = { # N=2
+	219 343 
+}
+uwsosite_area = { # N=4
+	2394 2265 2397 2208 
+}
+nagepedro_area = { # N=4
+	1695 1732 1928 1690 
+}
+trasetios_area = { # N=3
+	190 187 89 
+}
+oewnena_area = { # N=5
+	2195 2147 2161 2170 2198 
+}
+cimpset_area = { # N=8
+	2299 2280 2378 2276 2288 2268 2260 2309 
+}
+pleheuc_area = { # N=6
+	2215 2252 2201 2209 2295 2217 
+}
+lsotsawhi_area = { # N=6
+	2494 2461 2446 2439 2475 2479 
+}
+mirohur_area = { # N=7
+	68 132 274 216 189 306 135 
+}
+iuath_area = { # N=5
+	441 360 257 339 227 
+}
+tetoh_area = { # N=6
+	1908 2075 2094 2129 2109 1792 
+}
+mnins_area = { # N=3
+	482 742 1091 
+}
+toeftiutp_area = { # N=4
+	2148 2168 2151 2172 
+}
+messrilytio_area = { # N=7
+	1684 1764 1770 1842 1664 1715 1667 
+}
+mixlela_area = { # N=4
+	1049 484 822 367 
+}
+pniss_area = { # N=8
+	1920 1915 2023 1890 1835 1895 1971 2020 
+}
+annarteob_area = { # N=8
+	747 385 368 315 411 233 1027 299 
+}
+howisy_area = { # N=7
+	153 370 104 244 90 36 63 
+}
+boknem_area = { # N=8
+	2223 2222 2258 2352 2374 2310 2224 2401 
+}
+cafnir_area = { # N=3
+	276 289 501 
+}
+estenadi_area = { # N=7
+	1518 1300 1511 1449 1344 1546 1315 
+}
+onrirarteon_area = { # N=8
+	2668 2716 2752 2738 2693 2694 2704 2710 
+}
+hqudr_area = { # N=4
+	2187 2136 2139 2188 
+}
+tenaag_area = { # N=3
+	2143 2177 2141 
+}
+tatdaronheg_area = { # N=3
+	358 281 452 
+}
+lirsmpanroe_area = { # N=4
+	2435 2405 2407 2406 
+}
+hetcarlera_area = { # N=6
+	120 34 22 717 127 56 
+}
+hynsymn_area = { # N=8
+	1554 1126 1157 1137 1166 1134 1167 1238 
+}
+hacpeurn_area = { # N=6
+	1271 1249 1351 1286 1455 1274 
+}
+joclit_area = { # N=5
+	145 429 174 85 96 
+}
+xinvymb_area = { # N=8
+	647 499 695 510 963 894 595 460 
+}
+tetrelmo_area = { # N=6
+	23 769 18 19 191 395 
+}
+dtimet_area = { # N=6
+	1649 1591 1659 1601 1918 1610 
+}
+vgalrm_area = { # N=5
+	408 799 942 70 162 
+}
+rrretcewa_area = { # N=6
+	1349 1173 1171 1181 1550 1427 
+}
+bityh_area = { # N=3
+	2138 2181 2156 
+}
+xioce_area = { # N=8
+	1801 1816 2077 1758 1773 1880 1805 1811 
+}
+msazi_area = { # N=7
+	2688 2677 2751 2666 2674 2650 2636 
+}
+uvtocam_area = { # N=4
+	229 855 833 129 
+}
+tibictor_area = { # N=9
+	2741 2717 2628 2656 2680 2669 2662 2660 2670 
+}
+hoasa_area = { # N=6
+	841 810 770 735 797 669 
+}
+tamodo_area = { # N=3
+	895 361 1061 
+}
+rhacr_area = { # N=3
+	3033 3019 3016 
+}
+littand_area = { # N=7
+	1133 1258 1184 1180 1303 1163 1440 
+}
+tactasyra_area = { # N=5
+	2056 2025 1972 2093 2058 
+}
+erctoawo_area = { # N=5
+	2900 2896 2902 3023 2907 
+}
+rayltn_area = { # N=7
+	1314 1266 1239 1196 1339 1213 1244 
+}
+buwanint_area = { # N=6
+	1013 391 1053 603 698 838 
+}
+vupluf_area = { # N=7
+	1222 1117 1256 1317 1219 1560 1327 
+}
+hepdo_area = { # N=5
+	1553 1485 1503 1499 1517 
+}
+toyvl_area = { # N=6
+	430 485 705 614 828 286 
+}
+dilrey_area = { # N=9
+	295 342 539 201 221 247 258 304 794 
+}
+sactiac_area = { # N=3
+	938 956 3003 
+}
+nrepirsy_area = { # N=7
+	1355 1376 1347 1356 1370 1363 1576 
+}
+treich_area = { # N=4
+	474 341 292 537 
+}
+doucsu_area = { # N=8
+	1985 1756 2107 1769 2130 1761 1774 1750 
+}
+helyloe_area = { # N=7
+	757 788 887 767 643 760 752 
+}
+kmeme_area = { # N=4
+	2183 2185 2189 2192 
+}
+ontarapr_area = { # N=3
+	288 465 608 
+}
+fsetta_area = { # N=9
+	1284 1353 1357 1297 1404 1283 1429 1289 1293 
+}
+cvere_area = { # N=8
+	2617 2637 2629 2759 2685 2646 2621 2623 
+}
+gdolp_area = { # N=10
+	431 428 335 383 466 404 889 909 414 1090 
+}
+hwync_area = { # N=8
+	926 352 330 1048 702 369 548 512 
+}
+feotidg_area = { # N=4
+	2202 2204 2205 2384 
+}
+ruheasa_area = { # N=8
+	1790 2095 1813 2106 3009 1751 1590 1782 
+}
+achean_area = { # N=2
+	654 491 
+}
+aswtnuttiyf_area = { # N=7
+	256 371 298 273 487 301 230 
+}
+tempethy_area = { # N=6
+	2221 2244 2218 2243 2239 2389 
+}
+bigws_area = { # N=5
+	1059 983 1019 965 964 
+}
+tadfnotegy_area = { # N=7
+	2237 2287 2323 2350 2365 2240 2253 
+}
+scahn_area = { # N=9
+	1936 1859 1854 1911 2118 1992 1974 1926 2101 
+}
+rhultat_area = { # N=5
+	1154 1177 1169 1127 1135 
+}
+sfitage_area = { # N=6
+	1616 1941 1742 1653 1613 1622 
+}
+mtumobi_area = { # N=2
+	2174 2162 
+}
+bresolwatio_area = { # N=7
+	1141 1176 1148 1547 1221 1149 1140 
+}
+noksi_area = { # N=4
+	2546 2565 2532 2575 
+}
+warjancu_area = { # N=7
+	1362 1569 1254 1242 1247 1328 1248 
+}
+afzerg_area = { # N=7
+	388 255 240 313 458 407 935 
+}
+liccs_area = { # N=6
+	687 633 662 850 845 703 
+}
+lleln_area = { # N=7
+	1071 779 627 642 610 936 766 
+}
+sehmutena_area = { # N=8
+	1609 1867 1768 1625 2064 1629 1771 1655 
+}
+tinporaty_area = { # N=7
+	1418 1568 1516 1395 1533 1368 1457 
+}
+fmylr_area = { # N=4
+	28 21 46 254 
+}
+ilverotsuns_area = { # N=7
+	1298 1205 1575 1257 1216 1195 1278 
+}
+ictegetaes_area = { # N=4
+	2944 2945 2946 2969 
+}
+madmun_area = { # N=8
+	2453 2449 2468 2445 2460 2489 2455 2454 
+}
+mhenh_area = { # N=6
+	1408 1389 1398 1521 1396 1428 
+}
+clept_area = { # N=2
+	49 405 
+}
+trins_area = { # N=8
+	328 259 211 291 277 948 207 235 
+}
+anrutonr_area = { # N=4
+	1052 476 1074 905 
+}
+ldols_area = { # N=2
+	83 866 
+}
+seadont_area = { # N=8
+	2375 2357 2398 2380 2391 2341 2333 2361 
+}
+daninsaos_area = { # N=8
+	1595 1729 1650 1589 1931 1871 1644 1747 
+}
+tohgh_area = { # N=7
+	631 509 1073 737 840 714 496 
+}
+shuns_area = { # N=8
+	2649 2643 2684 2748 2732 2639 2632 2667 
+}
+sitre_area = { # N=3
+	2158 2142 2184 
+}
+stavua_area = { # N=8
+	549 805 892 527 927 579 782 809 
+}
+teene_area = { # N=5
+	250 1038 461 302 843 
+}
+stonewent_area = { # N=8
+	619 422 557 508 1072 410 607 1051 
+}
+tacatel_area = { # N=6
+	2070 1916 1939 1897 1883 1885 
+}
+hlafd_area = { # N=4
+	656 734 479 563 
+}
+sutolkehked_area = { # N=7
+	644 645 629 664 804 648 1067 
+}
+cawnge_area = { # N=6
+	624 739 531 528 550 992 
+}
+teriwt_area = { # N=8
+	507 511 989 416 437 477 675 419 
+}
+nluyt_area = { # N=9
+	1803 1689 1672 1703 1749 1743 1800 1670 1654 
+}
+ssebw_area = { # N=6
+	1045 914 3012 933 977 971 
+}
+orsape_area = { # N=3
+	2564 2999 2568 
+}
+towny_area = { # N=8
+	969 446 590 520 359 585 671 467 
+}
+udireo_area = { # N=2
+	58 29 
+}
+ogficetyyr_area = { # N=9
+	2470 2476 2443 2452 2448 2462 2491 2485 2456 
+}
+obdte_area = { # N=8
+	473 721 472 469 462 445 744 696 
+}
+ehsuval_area = { # N=5
+	857 925 896 849 1034 
+}
+hemar_area = { # N=8
+	2383 2347 2264 2368 2308 2329 2279 2301 
+}
+eagpoct_area = { # N=9
+	1231 1204 1179 1188 1367 1175 1562 1215 1183 
+}
+thodi_area = { # N=7
+	2879 2865 2872 2861 2878 2881 2862 
+}
+mitneky_area = { # N=5
+	1976 2005 1968 1982 2022 
+}
+dnark_area = { # N=4
+	2190 2153 2176 2186 
+}
+cqeepi_area = { # N=4
+	3048 1571 1494 1536 
+}
+sesdeh_area = { # N=6
+	2364 3032 2340 2348 2382 2351 
+}
+funmt_area = { # N=4
+	1551 1468 1450 1492 
+}
+cyloat_area = { # N=7
+	781 332 438 578 649 353 403 
+}
+fannopyret_area = { # N=8
+	1815 1853 1909 1836 1990 1942 1932 2027 
+}
+cuttawheip_area = { # N=10
+	324 1036 311 283 209 262 204 326 322 1092 
+}
+lleend_area = { # N=7
+	1476 1495 1444 1477 1454 1507 1487 
+}
+sonivos_area = { # N=6
+	800 598 1078 488 1063 652 
+}
+tisoh_area = { # N=7
+	1037 320 571 307 1042 224 264 
+}
+soprusoen_area = { # N=6
+	555 424 493 615 468 440 
+}
+teptans_area = { # N=10
+	1709 1680 1720 1686 2121 2122 1673 1795 1712 2029 
+}
+auriohce_area = { # N=8
+	1160 1146 1208 1151 1206 1170 1172 1199 
+}
+hattraol_area = { # N=3
+	2988 2480 3051 
+}
+todctauh_area = { # N=7
+	2182 2171 2175 2197 2169 2178 2199 
+}
+ahweap_area = { # N=7
+	1919 1858 1863 1831 1809 1953 1891 
+}
+puton_area = { # N=10
+	1549 1567 1469 1466 1462 1565 1498 1433 1461 1441 
+}
+pricoci_area = { # N=2
+	149 9 
+}
+pukhan_area = { # N=6
+	2583 2563 2561 2577 2560 2553 
+}
+owhap_area = { # N=2
+	1016 435 
+}
+niiet_area = { # N=6
+	3041 2970 3029 2953 2952 2971 
+}
+waspinsiwil_area = { # N=7
+	618 746 589 876 580 495 569 
+}
+tvada_area = { # N=6
+	1954 1959 1898 1947 1965 1927 
+}
+itvace_area = { # N=11
+	2713 2719 2995 2743 2724 2686 2725 2731 2678 2714 2736 
+}
+soupty_area = { # N=3
+	100 376 136 
+}
+sistewn_area = { # N=7
+	1596 1585 1624 1677 1605 1597 1604 
+}
+nedevisoon_area = { # N=9
+	246 312 1088 294 349 226 253 547 357 
+}
+nodsla_area = { # N=9
+	852 284 345 1041 268 1050 693 309 389 
+}
+cfromo_area = { # N=8
+	620 819 583 582 576 754 913 743 
+}
+hiclar_area = { # N=4
+	2967 1360 1538 1405 
+}
+nterfh_area = { # N=6
+	2213 2285 2246 2274 2277 2313 
+}
+rifvet_area = { # N=7
+	2679 2630 2640 2589 2654 2706 2750 
+}
+nanheming_area = { # N=6
+	11 1 811 3 2 55 
+}
+gyssleo_area = { # N=8
+	915 290 386 338 310 372 270 432 
+}
+cgeile_area = { # N=8
+	1224 1229 1202 1243 1369 1264 1209 1201 
+}
+depit_area = { # N=8
+	2825 2830 2798 2809 2895 2810 2804 2818 
+}
+rsleed_area = { # N=7
+	1925 2127 1812 1848 1839 2111 2080 
+}
+tedxien_area = { # N=7
+	45 173 916 888 42 14 128 
+}
+onguin_area = { # N=10
+	30 651 765 241 146 38 76 344 1083 65 
+}
+sbiet_area = { # N=10
+	2911 3018 2922 2993 2910 2919 2912 2914 2917 2916 
+}
+pudnale_area = { # N=12
+	2774 2801 2807 2765 2781 2893 2773 2776 2788 2777 2766 2775 
+}
+ranalomla_area = { # N=5
+	2965 3014 2966 3004 2963 
+}
+tdesac_area = { # N=6
+	397 568 421 1040 380 402 
+}
+propanas_area = { # N=10
+	2302 2367 2291 2339 2320 2284 2269 2275 2256 2326 
+}
+lataon_area = { # N=4
+	394 123 109 82 
+}
+namor_area = { # N=8
+	1371 1326 1394 1423 1431 1463 1486 1290 
+}
+hinore_area = { # N=7
+	1122 1114 1358 1136 1505 1116 1115 
+}
+holds_area = { # N=7
+	2997 2949 2951 2979 3005 2950 2955 
+}
+pgiri_area = { # N=6
+	2529 2523 2541 2559 2570 2518 
+}
+sesdesr_area = { # N=9
+	1962 2060 1901 1877 2053 1834 1957 2076 1948 
+}
+tyfhwemo_area = { # N=9
+	533 144 121 159 265 94 225 214 203 
+}
+ehsoe_area = { # N=6
+	630 808 541 686 626 1068 
+}
+rlengi_area = { # N=11
+	1818 1975 1876 1868 1706 1981 1832 1793 1882 2084 1852 
+}
+ehptiln_area = { # N=4
+	2403 2421 2402 2404 
+}
+enjony_area = { # N=8
+	1227 1269 1233 1335 1558 1246 1270 1308 
+}
+rendas_area = { # N=11
+	1872 1752 2017 1845 1879 2002 1889 1861 1794 1776 1740 
+}
+knafn_area = { # N=8
+	98 40 192 6 5 27 4 8 
+}
+ranfaeh_area = { # N=9
+	1210 3024 1260 1577 1223 1237 1162 1217 1182 
+}
+soavfh_area = { # N=7
+	2558 2551 2536 2582 2569 2534 2545 
+}
+vafeg_area = { # N=9
+	663 727 586 592 733 988 544 587 623 
+}
+enees_area = { # N=9
+	907 355 500 450 365 356 303 382 362 
+}
+vabatgd_area = { # N=7
+	745 741 640 706 683 711 637 
+}
+titter_area = { # N=10
+	812 1077 847 815 796 953 880 853 771 943 
+}
+wihtaloos_area = { # N=11
+	2008 1843 1994 1711 1730 1739 2125 1685 1688 1744 1702 
+}
+phynm_area = { # N=8
+	1236 1275 1348 1211 1240 1251 1255 1292 
+}
+ghowpw_area = { # N=8
+	1011 928 932 958 1004 1056 951 940 
+}
+ppeapity_area = { # N=9
+	2701 2675 2712 2676 2700 2698 2699 2735 2755 
+}
+lhofandios_area = { # N=8
+	1873 1946 2108 1864 1991 2012 1950 1914 
+}
+ptojekr_area = { # N=10
+	2791 2795 2782 2790 2789 2787 2780 2796 2785 2874 
+}
+nritits_area = { # N=3
+	995 377 321 
+}
+lutaco_area = { # N=6
+	1399 1419 1497 1509 1555 1373 
+}
+keald_area = { # N=11
+	2828 2880 2890 2843 2840 2826 2877 2831 2837 2846 2829 
+}
+lgephe_area = { # N=7
+	2883 2887 2891 2889 2876 2875 2870 
+}
+soposal_area = { # N=9
+	2267 2353 2254 2393 2255 2261 2300 2238 2266 
+}
+ifrireir_area = { # N=8
+	1955 2124 2007 1945 1907 2001 1944 1933 
+}
+arinm_area = { # N=8
+	2555 2515 2527 2522 2544 2539 2516 2525 
+}
+
+# Sea areas
+
+efderiunro_sea_area = { # N=3
+	3639 3228 3163 
+}
+deamdr_sea_area = { # N=3
+	3788 3345 3529 
+}
+ersihieto_sea_area = { # N=2
+	3567 3491 
+}
+noetla_sea_area = { # N=3
+	3703 3194 3634 
+}
+bumerce_sea_area = { # N=2
+	3668 3684 
+}
+latteu_sea_area = { # N=3
+	3739 3146 3663 
+}
+sleeer_sea_area = { # N=3
+	3592 3580 3563 
+}
+hrisyvoef_sea_area = { # N=5
+	3660 3185 3722 3269 3117 
+}
+rapaprerfos_sea_area = { # N=2
+	3451 3631 
+}
+rafovat_sea_area = { # N=4
+	3388 3730 3165 3482 
+}
+lebicac_sea_area = { # N=3
+	3220 3190 3637 
+}
+nhecs_sea_area = { # N=3
+	3263 3488 3691 
+}
+feallesl_sea_area = { # N=3
+	3597 3626 3755 
+}
+ewnow_sea_area = { # N=6
+	3086 3393 3588 3089 3141 3292 
+}
+tiiclur_sea_area = { # N=5
+	3309 3262 3566 3787 3484 
+}
+apcuders_sea_area = { # N=3
+	3325 3558 3596 
+}
+hlasi_sea_area = { # N=4
+	3082 3389 3404 3454 
+}
+retiesa_sea_area = { # N=4
+	3294 3633 3749 3197 
+}
+leegoa_sea_area = { # N=3
+	3737 3782 3417 
+}
+thihnaluof_sea_area = { # N=3
+	3359 3238 3409 
+}
+teheon_sea_area = { # N=4
+	3289 3778 3615 3323 
+}
+pafyti_sea_area = { # N=4
+	3097 3281 3783 3132 
+}
+hahnme_sea_area = { # N=4
+	3307 3268 3719 3124 
+}
+ttearomt_sea_area = { # N=3
+	3340 3531 3511 
+}
+ncueded_sea_area = { # N=2
+	3444 3463 
+}
+dmota_sea_area = { # N=3
+	3560 3568 3347 
+}
+hroln_sea_area = { # N=4
+	3428 3773 3573 3503 
+}
+cesmi_sea_area = { # N=4
+	3591 3690 3114 3552 
+}
+drocw_sea_area = { # N=3
+	3435 3306 3694 
+}
+adelt_sea_area = { # N=3
+	3612 3629 3603 
+}
+supcu_sea_area = { # N=6
+	3303 3746 3115 3506 3202 3397 
+}
+possilegery_sea_area = { # N=3
+	3762 3456 3696 
+}
+hraad_sea_area = { # N=6
+	3412 3689 3159 3776 3108 3106 
+}
+bothsu_sea_area = { # N=3
+	3317 3744 3427 
+}
+elutoaremi_sea_area = { # N=5
+	3605 3178 3123 3784 3604 
+}
+teadins_sea_area = { # N=4
+	3127 3274 3284 3273 
+}
+enventhort_sea_area = { # N=4
+	3549 3312 3254 3745 
+}
+sickah_sea_area = { # N=4
+	3379 3458 3658 3081 
+}
+stilo_sea_area = { # N=4
+	3401 3396 3125 3321 
+}
+clutito_sea_area = { # N=4
+	3333 3175 3711 3222 
+}
+biztaon_sea_area = { # N=4
+	3649 3478 3360 3485 
+}
+ceunr_sea_area = { # N=3
+	3763 3450 3654 
+}
+tpeta_sea_area = { # N=4
+	3338 3152 3643 3299 
+}
+ugmaricdian_sea_area = { # N=5
+	3715 3110 3173 3206 3142 
+}
+ssripsac_sea_area = { # N=5
+	3770 3384 3285 3528 3382 
+}
+detorceat_sea_area = { # N=3
+	3370 3248 3386 
+}
+jemmal_sea_area = { # N=3
+	3166 3267 3677 
+}
+sosop_sea_area = { # N=5
+	3261 3160 3180 3774 3243 
+}
+wernir_sea_area = { # N=5
+	3733 3772 3535 3620 3244 
+}
+tserereon_sea_area = { # N=4
+	3509 3743 3387 3270 
+}
+nerotife_sea_area = { # N=3
+	3398 3616 3424 
+}
+caulta_sea_area = { # N=4
+	3674 3425 3496 3419 
+}
+ettasc_sea_area = { # N=5
+	3686 3368 3135 3181 3313 
+}
+pawtiwniw_sea_area = { # N=5
+	3432 3103 3230 3742 3582 
+}
+tunket_sea_area = { # N=4
+	3446 3495 3595 3579 
+}
+lendg_sea_area = { # N=7
+	3769 3186 3602 3457 3688 3176 3314 
+}
+ytmitsaid_sea_area = { # N=3
+	3195 3234 3131 
+}
+hutheod_sea_area = { # N=5
+	3193 3205 3466 3702 3361 
+}
+boinr_sea_area = { # N=5
+	3217 3266 3790 3771 3490 
+}
+tadit_sea_area = { # N=4
+	3652 3280 3327 3138 
+}
+cenrel_sea_area = { # N=7
+	3143 3700 3372 3139 3161 3756 3363 
+}
+ctuld_sea_area = { # N=5
+	3211 3191 3170 3147 3184 
+}
+npeti_sea_area = { # N=4
+	3635 3501 3468 3326 
+}
+ropot_sea_area = { # N=6
+	3685 3346 3278 3439 3376 3291 
+}
+dyhister_sea_area = { # N=4
+	3569 3619 3767 3544 
+}
+dohase_sea_area = { # N=5
+	3174 3759 3337 3557 3476 
+}
+meiwtaen_sea_area = { # N=5
+	3433 3734 3305 3265 3233 
+}
+elgolun_sea_area = { # N=5
+	3518 3546 3621 3539 3330 
+}
+caoep_sea_area = { # N=5
+	3785 3545 3664 3607 3561 
+}
+sdaelrod_sea_area = { # N=4
+	3344 3583 3698 3302 
+}
+haprur_sea_area = { # N=4
+	3420 3766 3532 3594 
+}
+closset_sea_area = { # N=4
+	3371 3623 3369 3584 
+}
+cyntih_sea_area = { # N=6
+	3203 3156 3521 3137 3095 3662 
+}
+aivser_sea_area = { # N=6
+	3328 3187 3183 3786 3101 3215 
+}
+resiigl_sea_area = { # N=4
+	3443 3436 3348 3429 
+}
+nitirefso_sea_area = { # N=3
+	3448 3641 3462 
+}
+ostivetn_sea_area = { # N=8
+	3680 3201 3627 3350 3210 3169 3672 3329 
+}
+srehn_sea_area = { # N=4
+	3675 3709 3460 3682 
+}
+cettaf_sea_area = { # N=5
+	3182 3564 3780 3378 3256 
+}
+epfarroh_sea_area = { # N=4
+	3502 3590 3758 3644 
+}
+hovofae_sea_area = { # N=7
+	3335 3116 3665 3153 3630 3669 3609 
+}
+soyut_sea_area = { # N=5
+	3510 3128 3258 3189 3453 
+}
+netnynypod_sea_area = { # N=6
+	3704 3297 3390 3622 3651 3483 
+}
+tehsi_sea_area = { # N=4
+	3341 3308 3298 3628 
+}
+cagnatume_sea_area = { # N=5
+	3536 3339 3164 3408 3343 
+}
+nehear_sea_area = { # N=6
+	3403 3764 3354 3413 3207 3245 
+}
+fubohe_sea_area = { # N=5
+	3645 3167 3422 3198 3508 
+}
+hiletlir_sea_area = { # N=5
+	3400 3526 3673 3373 3608 
+}
+igele_sea_area = { # N=4
+	3618 3625 3632 3729 
+}
+ebenorfome_sea_area = { # N=7
+	3113 3231 3336 3515 3647 3129 3440 
+}
+xotfer_sea_area = { # N=4
+	3394 3259 3548 3434 
+}
+rucica_sea_area = { # N=4
+	3094 3678 3133 3657 
+}
+hieet_sea_area = { # N=6
+	3593 3613 3318 3656 3447 3740 
+}
+csoaside_sea_area = { # N=5
+	3438 3271 3331 3775 3533 
+}
+ttetoti_sea_area = { # N=6
+	3364 3600 3322 3229 3754 3589 
+}
+cemeno_sea_area = { # N=4
+	3199 3565 3380 3523 
+}
+indosrdo_sea_area = { # N=6
+	3541 3470 3140 3282 3213 3534 
+}
+sbefsehd_sea_area = { # N=9
+	3288 3681 3157 3107 3671 3708 3221 3741 3188 
+}
+tnaro_sea_area = { # N=5
+	3402 3725 3575 3716 3461 
+}
+rroim_sea_area = { # N=4
+	3553 3570 3576 3512 
+}
+ecren_sea_area = { # N=5
+	3676 3522 3777 3149 3555 
+}
+teluri_sea_area = { # N=4
+	3304 3525 3710 3459 
+}
+ertocegeap_sea_area = { # N=5
+	3214 3437 3661 3713 3578 
+}
+nlaalama_sea_area = { # N=6
+	3090 3252 3735 3455 3102 3121 
+}
+inlene_sea_area = { # N=7
+	3151 3695 3241 3601 3083 3240 3362 
+}
+sehpeny_sea_area = { # N=4
+	3747 3383 3642 3481 
+}
+arinfe_sea_area = { # N=8
+	3736 3721 3162 3242 3218 3659 3196 3085 
+}
+crodela_sea_area = { # N=7
+	3472 3464 3279 3104 3111 3118 3492 
+}
+puotteon_sea_area = { # N=6
+	3726 3441 3683 3431 3469 3599 
+}
+bofry_sea_area = { # N=6
+	3650 3636 3411 3246 3792 3275 
+}
+hlimd_sea_area = { # N=4
+	3714 3572 3550 3547 
+}
+locifeld_sea_area = { # N=4
+	3779 3540 3581 3606 
+}
+niatuhe_sea_area = { # N=6
+	3738 3748 3355 3530 3250 3504 
+}
+ohnecdave_sea_area = { # N=4
+	3293 3377 3301 3705 
+}
+sdeor_sea_area = { # N=7
+	3699 3452 3646 3208 3219 3358 3232 
+}
+geetrur_sea_area = { # N=6
+	3375 3316 3442 3421 3648 3144 
+}
+ssyoth_sea_area = { # N=8
+	3136 3320 3351 3257 3753 3093 3587 3158 
+}
+wicut_sea_area = { # N=5
+	3498 3524 3212 3697 3415 
+}
+sohitlioc_sea_area = { # N=6
+	3352 3311 3505 3418 3296 3517 
+}
+smars_sea_area = { # N=7
+	3109 3177 3391 3760 3365 3168 3465 
+}
+goblfsiend_sea_area = { # N=6
+	3489 3449 3765 3287 3236 3640 
+}
+polmynr_sea_area = { # N=7
+	3486 3514 3520 3154 3585 3562 3598 
+}
+inting_sea_area = { # N=7
+	3537 3480 3239 3727 3543 3286 3091 
+}
+degtat_sea_area = { # N=8
+	3367 3407 3477 3349 3426 3519 3611 3200 
+}
+manstrudsio_sea_area = { # N=9
+	3225 3381 3750 3332 3092 3516 3310 3223 3499 
+}
+tivop_sea_area = { # N=7
+	3227 3099 3272 3494 3720 3707 3551 
+}
+caudlo_sea_area = { # N=7
+	3542 3732 3264 3751 3473 3112 3405 
+}
+sniro_sea_area = { # N=10
+	3226 3334 3145 3295 3319 3577 3155 3789 3706 3224 
+}
+syarisa_sea_area = { # N=8
+	3556 3120 3251 3655 3105 3718 3098 3260 
+}
+cadte_sea_area = { # N=7
+	3399 3374 3493 3666 3283 3781 3475 
+}
+ylconi_sea_area = { # N=7
+	3414 3559 3290 3122 3610 3130 3571 
+}
+drytp_sea_area = { # N=9
+	3209 3324 3687 3574 3100 3731 3712 3216 3500 
+}
+tdjoif_sea_area = { # N=8
+	3410 3723 3638 3507 3471 3171 3757 3084 
+}
+seledtone_sea_area = { # N=6
+	3342 3300 3247 3614 3277 3353 
+}
+adcuen_sea_area = { # N=6
+	3366 3768 3667 3235 3728 3624 
+}
+luslig_sea_area = { # N=6
+	3395 3527 3752 3487 3356 3474 
+}
+toicnun_sea_area = { # N=5
+	3724 3276 3255 3315 3204 
+}
+lkark_sea_area = { # N=7
+	3445 3554 3617 3126 3179 3692 3357 
+}
+thauwln_sea_area = { # N=6
+	3467 3679 3430 3513 3150 3538 
+}
+dmaary_sea_area = { # N=10
+	3406 3791 3134 3392 3096 3701 3172 3717 3148 3087 
+}
+briedh_sea_area = { # N=7
+	3088 3479 3253 3761 3497 3586 3249 
+}
+jreni_sea_area = { # N=9
+	3670 3385 3653 3693 3119 3423 3192 3416 3237 
+}
+adamawa_plateau_area = {}
+aegean_archipelago_area = {}
+ahmedabad_area = {}
+ahmednagar_area = {}
+ajuuran_area = {}
+al_jazira_area = {}
+al_wahat_area = {}
+alabama_area = {}
+alaska_area = {}
+albania_area = {}
+alentejo_area = {}
+aleppo_area = {}
+alfold_area = {}
+algiers_area = {}
+alsace_area = {}
+altai_sayan_area = {}
+amapa_area = {}
+amazon_area = {}
+amdo_area = {}
+american_georgia_area = {}
+andaman_sea_area = {}
+andhra_area = {}
+angkor_area = {}
+angola_namibia_area = {}
+anhui_area = {}
+ankara_area = {}
+antisuyu_area = {}
+apacheria_area = {}
+appalachia_area = {}
+apulia_area = {}
+aqmola_area = {}
+arabian_sea_area = {}
+aragon_area = {}
+arakan_area = {}
+argentine_sea_area = {}
+arizona_area = {}
+arkhangelsk_area = {}
+armenia_area = {}
+arys_area = {}
+asir_area = {}
+assam_area = {}
+assiniboia_area = {}
+astrakhan_area = {}
+asturias_area = {}
+atacora_oueme_area = {}
+athabasca_area = {}
+aussa_area = {}
+austria_proper_area = {}
+aydin_area = {}
+azbin_area = {}
+azerbaijan_area = {}
+azov_area = {}
+badlands_area = {}
+baghelkhand_area = {}
+baghena_area = {}
+bahama_channel_area = {}
+bahari_area = {}
+bahia_area = {}
+bahia_blanca_area = {}
+bahrain_area = {}
+baisi_rajya_area = {}
+baja_california_area = {}
+balchasj_area = {}
+baleares_area = {}
+balkh_area = {}
+baltic_area = {}
+banda_arafura_seas_area = {}
+banda_oriental_area = {}
+banjar_area = {}
+banten_area = {}
+barbary_coast_area = {}
+bashkiria_area = {}
+basque_country = {}
+basra_area = {}
+batak_area = {}
+bay_of_bengal_area = {}
+bay_of_biscay_area = {}
+beieras_area = {}
+beloozero_area = {}
+beni_area = {}
+benin_area = {}
+berar_area = {}
+berring_sea_area = {}
+betsimasaraka_area = {}
+bhutan_area = {}
+bihar_area = {}
+birjand_area = {}
+black_sea_area = {}
+bogota_area = {}
+bohemia_area = {}
+bornu_area = {}
+bosnia_area = {}
+bothnia_area = {}
+bourgogne_area = {}
+brabant_area = {}
+braunschweig_area = {}
+brittany_area = {}
+brunei_area = {}
+buenos_aires_area = {}
+buha_area = {}
+bulgaria_area = {}
+bundelkhand_area = {}
+bunyoro_area = {}
+buryatia_area = {}
+butua_area = {}
+buzinza_area = {}
+cajamarca_area = {}
+calabria_area = {}
+california_area = {}
+cambodia_area = {}
+campeche_area = {}
+cap_verde_area = {}
+cape_of_good_hope_area = {}
+cape_of_storms_area = {}
+caribbean_sea_area = {}
+carinthia_area = {}
+carolinas_area = {}
+castille_area = {}
+catalonia_area = {}
+ceara_area = {}
+celebes_sea_area = {}
+celtic_sea_area = {}
+central_burma_area = {}
+central_chile_area = {}
+central_ethiopia_area = {}
+central_heilongjiang_area = {}
+central_italy_area = {}
+central_java_area = {}
+central_jilin_area = {}
+central_llanos_area = {}
+central_mongolia_area = {}
+central_plains_area = {}
+central_poland_area = {}
+central_siberia_area = {}
+central_sumatra_area = {}
+central_swahili_coast_area = {}
+central_thai_area = {}
+central_valley_area = {}
+chaco_area = {}
+chahar_area = {}
+champa_area = {}
+champagne_area = {}
+champasak_area = {}
+chernigov_area = {}
+chesapeake_area = {}
+chiapas_area = {}
+chihuahua_area = {}
+chilean_sea_area = {}
+chimor_area = {}
+chindwin_area = {}
+choctaw_area = {}
+chokwe_area = {}
+chuanbei_area = {}
+chuannan_area = {}
+chubu_area = {}
+cicigar_area = {}
+circassia_area = {}
+coast_of_brazil_sea_area = {}
+coast_of_guyana_area = {}
+coastal_kongo = {}
+coastal_prarie_area = {}
+colombian_amazonas_area = {}
+colorado_plateau_area = {}
+columbia_river_area = {}
+connacht_area = {}
+connecticut_valley_area = {}
+coquivacoa_area = {}
+coral_sea_area = {}
+cordillera_occidental_area = {}
+corsica_sardinia_area = {}
+costa_rica_area = {}
+cote_nord_area = {}
+crimea_area = {}
+croatia_area = {}
+cuba_area = {}
+cukurova_area = {}
+curonia_area = {}
+cuyo_area = {}
+cyrenaica_area = {}
+dagestan_area = {}
+dakota_area = {}
+damot_area = {}
+darfur_central_sahara_area = {}
+delaware_valley_area = {}
+delta_area = {}
+dendi_area = {}
+denmark_area = {}
+denmark_strait_area = {}
+desh_area = {}
+dhofar_area = {}
+diamantina_area = {}
+djerba_area = {}
+dominica_area = {}
+dongola_area = {}
+dulkadir_area = {}
+durango_area = {}
+east_adriatic_coast_area = {}
+east_alaska_area = {}
+east_anglia_area = {}
+east_azbin_area = {}
+east_bavaria_area = {}
+east_bengal_area = {}
+east_china_sea_area = {}
+east_cuba_area = {}
+east_dniepr_area = {}
+east_heilongjiang_area = {}
+east_java_area = {}
+east_midlands_area = {}
+east_pacific_ocean_area = {}
+east_prussia_area = {}
+east_yucatan_area = {}
+eastern_australia_area = {}
+eastern_chubu_area = {}
+eastern_indian_ocean_area = {}
+eastern_kanto_area = {}
+eastern_korea_area = {}
+eastern_llanos = {}
+eastern_maine_area = {}
+eastern_mediterrenean_area = {}
+eastern_mexico_area = {}
+eastern_mongolia = {}
+eastern_norway = {}
+eastern_polynesia_area = {}
+emilia_romagna_area = {}
+english_channel_area = {}
+erzgebirge_area = {}
+erzurum_area = {}
+estonia_ingria_area = {}
+extremadura_area = {}
+farsistan_area = {}
+ferghana_area = {}
+fezzan_area = {}
+fiji_area = {}
+finland_area = {}
+flanders_area = {}
+florida_area = {}
+franconia_area = {}
+frisia_area = {}
+fujian_area = {}
+furdan_area = {}
+futa_jallon_area = {}
+galich_area = {}
+galicia_area = {}
+gansu_area = {}
+garjat_area = {}
+gaur_area = {}
+germiyan_area = {}
+ghor_area = {}
+gird_area = {}
+goias_area = {}
+golconda_area = {}
+gondwana_area = {}
+gotaland_area = {}
+gran_chichimeca_area = {}
+grao_para_area = {}
+great_australian_bight_area = {}
+great_valley_area = {}
+great_woods_area = {}
+greater_antilles_area = {}
+greenland_area = {}
+guanajuato_area = {}
+guangdong_area = {}
+guangxi_area = {}
+guapore_area = {}
+guatemala_area = {}
+guatemala_lowlands_area = {}
+guerrero_area = {}
+guinea_coast_area = {}
+gulf_of_alaska_area = {}
+gulf_of_arabia_area = {}
+gulf_of_guinea_area = {}
+gulf_of_guinea_sea_area = {}
+gulf_of_mexico_area = {}
+gulf_of_panama_area = {}
+gulf_of_st_lawrence_area = {}
+gulf_stream_area = {}
+guyana_area = {}
+guyenne_area = {}
+hadiya_area = {}
+hadramut_area = {}
+hamgyeong_area = {}
+hausa_area = {}
+hautes_plaines_area = {}
+hebei_area = {}
+hecate_strait_area = {}
+heilongjiang_area = {}
+henan_area = {}
+herat_area = {}
+hesse_area = {}
+high_plains_area = {}
+highlands_area = {}
+himalayan_hills_area = {}
+hinter_pommern_area = {}
+hispaniola_area = {}
+hokkaido_area = {}
+hokuriku_area = {}
+holland_area = {}
+holstein_area = {}
+home_counties_area = {}
+honduras_area = {}
+huanuco_area = {}
+huasteca_area = {}
+hudavendigar_area = {}
+hudson_bay_area = {}
+hudson_bay_sea_area = {}
+hudson_valley_area = {}
+huguang_area = {}
+hunan_area = {}
+huronia_area = {}
+iceland_area = {}
+ifat_area = {}
+ilan_hala_area = {}
+ile_de_france_area = {}
+illawara_area = {}
+illinois_country_area = {}
+imereti_area = {}
+indian_ocean_islands_area = {}
+indonesian_islands_area = {}
+inner_austria_area = {}
+inner_mongolia_area = {}
+inner_ontario_area = {}
+interior_plateau_area = {}
+iowa_area = {}
+iquitos_area = {}
+iraq_arabi_area = {}
+iraq_e_ajam_area = {}
+irkutsk_area = {}
+iroquoisia_area = {}
+isfahan_area = {}
+ishim_area = {}
+jaipur_area = {}
+jalisco_area = {}
+jambi_area = {}
+james_bay_area = {}
+jangladesh_area = {}
+java_sea_area = {}
+jenne_area = {}
+jetysuu_area = {}
+jharkhand_area = {}
+jiangsu_area = {}
+jiangxi_area = {}
+jilin_area = {}
+johor_area = {}
+jolof_area = {}
+jubba_area = {}
+jujuy_area = {}
+jutland_area = {}
+kabulistan_area = {}
+kabylia_area = {}
+kachin_area = {}
+kalat_area = {}
+kalimantan_area = {}
+kama_area = {}
+kamchatka_area = {}
+kanara_area = {}
+kanem_area = {}
+kansas_area = {}
+kanto_area = {}
+kara_area = {}
+karaman_area = {}
+karelia_area = {}
+karenni_area = {}
+kartli_kakheti_area = {}
+kasai_area = {}
+kashgaria_area = {}
+kashmir_area = {}
+kastamonu_area = {}
+katanga_area = {}
+katehar_area = {}
+katsina_area = {}
+kattegat_area = {}
+kazakhstan_area = {}
+kazan_area = {}
+kentucky_area = {}
+kenya_area = {}
+kerman_area = {}
+kham_area = {}
+khandesh_area = {}
+khiva_area = {}
+khorat_area = {}
+khuzestan_area = {}
+kinai_area = {}
+kingdom_of_the_isles_area = {}
+kolyma_area = {}
+kong_area = {}
+kongo_area = {}
+kongu_area = {}
+konkan_area = {}
+kuntisuyu_area = {}
+kurdufan_area = {}
+kutai_area = {}
+kuyavia_area = {}
+kyushu_area = {}
+kyzylkum_area = {}
+labrador_area = {}
+lahore_area = {}
+lake_superior_area = {}
+languedoc_area = {}
+lanka_area = {}
+laponia_area = {}
+laurentian_area = {}
+lazio_area = {}
+leeward_islands_area = {}
+leinster_area = {}
+leon_area = {}
+lesser_sunda_islands_area = {}
+liaoning_area = {}
+liguria_area = {}
+limpopo_area = {}
+lithuania_area = {}
+livonia_area = {}
+llano_estacado_area = {}
+loire_area = {}
+lombardy_area = {}
+lorraine_area = {}
+lower_acadia_area = {}
+lower_andalucia_area = {}
+lower_bavaria_area = {}
+lower_burma_area = {}
+lower_canada_area = {}
+lower_doab_area = {}
+lower_don_area = {}
+lower_kasai = {}
+lower_louisiana_area = {}
+lower_niger_area = {}
+lower_nubia_area = {}
+lower_plains_area = {}
+lower_rhineland_area = {}
+lower_saxony_area = {}
+lower_swabia_area = {}
+lower_volta_area = {}
+lower_yik_area = {}
+lower_zambezi_area = {}
+lowlands_area = {}
+luba_area = {}
+lucayan_area = {}
+luristan_area = {}
+lusatia_area = {}
+luzon_area = {}
+macaronesia_area = {}
+macedonia_area = {}
+madagascar_highlands_area = {}
+madura_area = {}
+magadan_area = {}
+mahra_area = {}
+maidan_area = {}
+maine_area = {}
+majarteen_area = {}
+makassar_area = {}
+makran_area = {}
+malabar_area = {}
+malacca_area = {}
+malaya_area = {}
+malopolska_area = {}
+malwa_area = {}
+manding_area = {}
+manitoba_area = {}
+maracaibo_area = {}
+maranhao_area = {}
+marrekesh_area = {}
+marwar_area = {}
+maryland_area = {}
+mascarenes_area = {}
+mascat_area = {}
+mashhad_area = {}
+massachusetts_bay_area = {}
+massif_central_area = {}
+massina_area = {}
+matamba_area = {}
+mato_grosso_area = {}
+mazovia_area = {}
+mecca_area = {}
+mecklenburg_area = {}
+medina_area = {}
+mekong_area = {}
+melanesia_area = {}
+merv_area = {}
+mewar_area = {}
+mexico_area = {}
+miami_river_area = {}
+michigan_area = {}
+michoacan_area = {}
+micronesia_area = {}
+minangkabau_area = {}
+minas_gerais_area = {}
+mindanao_area = {}
+minnessota_area = {}
+minsk_area = {}
+misiones_area = {}
+mississippi_area = {}
+mississippi_plain_area = {}
+mithila_area = {}
+mittelmark_area = {}
+mixteca_area = {}
+mogadishu_area = {}
+mogostan_area = {}
+moldavia_area = {}
+molluca_area = {}
+mombasa_area = {}
+moravia_area = {}
+morea_area = {}
+moscow_area = {}
+moxos_area = {}
+mozambique_area = {}
+multan_area = {}
+munster_area = {}
+murray_river_area = {}
+mysore_area = {}
+nafud_area = {}
+naga_hills_area = {}
+naples_area = {}
+nayarit_area = {}
+nehuenken_area = {}
+nepal_area = {}
+netherlands_area = {}
+neumark_area = {}
+new_mexico_area = {}
+new_york_area = {}
+newfoundland_area = {}
+ngari_area = {}
+ngonde_area = {}
+nicaragua_area = {}
+niger_bend_area = {}
+ningguta_area = {}
+nogai_area = {}
+normandy_area = {}
+norrland_area = {}
+north_atlantic_area = {}
+north_bengal_area = {}
+north_brabant_area = {}
+north_carnatic_area = {}
+north_florida_area = {}
+north_henan_area = {}
+north_karelia = {}
+north_kurdistan_area = {}
+north_laos_area = {}
+north_malaya_area = {}
+north_pacific_area = {}
+north_pacific_coast_area = {}
+north_queensland_area = {}
+north_rhine_area = {}
+north_saharan_area = {}
+north_sea_area = {}
+north_sumatra_area = {}
+north_tenasserim_area = {}
+north_westphalia_area = {}
+north_zungaria = {}
+northeast_mexico_area = {}
+northern_australia_area = {}
+northern_california_area = {}
+northern_chile_area = {}
+northern_greece_area = {}
+northern_kyushu = {}
+northern_morocco_area = {}
+northern_norway = {}
+northern_polynesia_area = {}
+northern_saxony_area = {}
+northern_sindh_area = {}
+northern_swahili_coast_area = {}
+northern_thai_area = {}
+norwegian_sea_area = {}
+notre_dame_mountains_area = {}
+novgorod_area = {}
+oaxaca_area = {}
+ob_area = {}
+ofaie_area = {}
+ogaden_area = {}
+ohio_country_area = {}
+oka_area = {}
+okhotsk_area = {}
+oman_area = {}
+ordos_area = {}
+oregon_area = {}
+orissa_area = {}
+orleans_area = {}
+ostra_svealand_area = {}
+ottawa_valley_area = {}
+oudh_area = {}
+ouled_nail_area = {}
+outer_mongolia_area = {}
+ozarks_area = {}
+palatinate_area = {}
+palawan_area = {}
+palestine_area = {}
+panama_area = {}
+papua_area = {}
+paraguay_area = {}
+patagonia_area = {}
+patagonian_andes = {}
+patan_area = {}
+pecos_area = {}
+perm_area = {}
+pernambuco_area = {}
+persian_gulf_area = {}
+persian_gulf_coast = {}
+peruan_coast = {}
+philipine_sea_area = {}
+piaui_area = {}
+picardy_area = {}
+piedmont_area = {}
+piedmont_north_america_area = {}
+pilbara_area = {}
+pirate_coast_area = {}
+po_valley_area = {}
+podlasie_area = {}
+podolia_volhynia_area = {}
+poitou_area = {}
+polynesia_area = {}
+polynesian_triangle_area = {}
+pomerelia_area = {}
+pomor_area = {}
+pontal_area = {}
+popayan_area = {}
+potosi_area = {}
+prairies_area = {}
+pripyat_area = {}
+provence_area = {}
+pskov_area = {}
+puebla_area = {}
+purvanchal_area = {}
+pyongan_area = {}
+pyrenees_area = {}
+qasim_area = {}
+quelimane_area = {}
+quito_area = {}
+raichur_doab_area = {}
+rascia_area = {}
+rayalaseema_area = {}
+red_river_area = {}
+red_river_delta_area = {}
+red_ruthenia_area = {}
+red_sea_area = {}
+red_sea_coast_area = {}
+rio_de_janeiro_area = {}
+rio_grande_area = {}
+rio_grande_do_sol_area = {}
+romandie_area = {}
+rum_area = {}
+ruvuma_area = {}
+rwanda_area = {}
+ryazan_area = {}
+sabah_area = {}
+said_area = {}
+saigoku_area = {}
+sakalava_area = {}
+sakha_area = {}
+sakhalin_area = {}
+salish_sea_area = {}
+samara_area = {}
+samogitia_area = {}
+samtskhe_area = {}
+sandomierz_area = {}
+sanindo_area = {}
+sankuru_area = {}
+sao_francisco_area = {}
+sao_paolo_area = {}
+sao_tome_area = {}
+saratov_area = {}
+sargasso_sea_area = {}
+saskatchewan_area = {}
+saurashtra_area = {}
+savoy_dauphine_area = {}
+scottish_marches_area = {}
+sea_of_grau_area = {}
+sea_of_japan_area = {}
+sea_of_labrador_area = {}
+sea_of_okhotsk_area = {}
+sennar_area = {}
+serbia_area = {}
+shaanxi_area = {}
+shahrizor_area = {}
+shan_hill_area = {}
+shandong_area = {}
+shanshan_area = {}
+shanxi_area = {}
+shewa_area = {}
+shikoku_area = {}
+shire_area = {}
+shirvan_area = {}
+sichuan_area = {}
+sicily_area = {}
+silesia_area = {}
+silistria_area = {}
+sind_sagar_area = {}
+sindh_area = {}
+sirhind_area = {}
+sistan_area = {}
+skaneland_area = {}
+skeleton_coast_area = {}
+slavonia_area = {}
+sloboda_ukraine_area = {}
+slovakia_area = {}
+smolensk_area = {}
+snake_river_area = {}
+somaliland_area = {}
+sonora_area = {}
+sonora_y_sinaloa_area = {}
+south_african_plateau_area = {}
+south_anhui_area = {}
+south_appalachia_area = {}
+south_atlantic_area = {}
+south_atlantic_islands_area = {}
+south_carnatic_area = {}
+south_carolina_area = {}
+south_carolina_piedmont_area = {}
+south_china_sea_area = {}
+south_dakota_area = {}
+south_hebei_area = {}
+south_indian_ocean_area = {}
+south_iroquoisia_area = {}
+south_jiangsu_area = {}
+south_korea_area = {}
+south_lanka_area = {}
+south_laos_area = {}
+south_pacific_area = {}
+south_queensland_area = {}
+south_saxony_area = {}
+south_sulawesi_area = {}
+south_sumatra_area = {}
+southern_australia_area = {}
+southern_chile_area = {}
+southern_ethiopia_area = {}
+southern_illinois_area = {}
+southern_luzon_area = {}
+southern_madagascar = {}
+southern_morocco_area = {}
+southern_pampas_area = {}
+southern_transylvania_area = {}
+spice_islands_area = {}
+st_john_valley_area = {}
+straits_of_georgia_area = {}
+subarctic_islands_area = {}
+sukhothai_area = {}
+sulawesi_area = {}
+surabaya_area = {}
+suriname_area = {}
+sus_area = {}
+susquehanna_area = {}
+suzdal_area = {}
+svealand_area = {}
+swahili_coast_sea_area = {}
+switzerland_area = {}
+syr_darya_area = {}
+syria_area = {}
+syrian_desert_area = {}
+tabarestan_area = {}
+tabriz_area = {}
+tabuk_area = {}
+tafilalt_area = {}
+taiwan_area = {}
+tambov_area = {}
+tanjore_area = {}
+tannu_uriankhai_area = {}
+tanzania_area = {}
+tapti_area = {}
+tarim_basin_area = {}
+tasman_sea_area = {}
+tasmania_area = {}
+tay_nguyen_area = {}
+te_ika_a_maui_hauauru_area = {}
+te_ika_a_maui_waho_area = {}
+te_waipounamu_area = {}
+tekrur_area = {}
+telingana_area = {}
+tenasserim_area = {}
+termez_area = {}
+texas_area = {}
+texas_plains_area = {}
+thohoku_area = {}
+thrace_area = {}
+thuringia_area = {}
+tierra_caliente_area = {}
+tigray_area = {}
+tihama_al_yemen_area = {}
+timor_area = {}
+tirol_area = {}
+toledo_area = {}
+top_end_area = {}
+trans_jordan_area = {}
+transcaspia_area = {}
+transdanubia_area = {}
+transoxiana_area = {}
+transvaal_area = {}
+transylvania_area = {}
+tripolitania_area = {}
+tripura_area = {}
+trois_rivieres_area = {}
+tsang_area = {}
+tucuman_area = {}
+tunguska_area = {}
+tunisia_area = {}
+turpan_kumul_area = {}
+tuscany_area = {}
+tver_area = {}
+ucayali_area = {}
+uganda_area = {}
+uliastai_area = {}
+ulster_area = {}
+upper_acadia_area = {}
+upper_american_georgia_area = {}
+upper_andalucia_area = {}
+upper_bavaria_area = {}
+upper_burma_area = {}
+upper_canada_area = {}
+upper_doab_area = {}
+upper_franconia_area = {}
+upper_guyana_area = {}
+upper_louisiana_area = {}
+upper_mahanadi_area = {}
+upper_missouri_area = {}
+upper_nubia_area = {}
+upper_ontario_area = {}
+upper_peru = {}
+upper_rhineland_area = {}
+upper_swabia_area = {}
+upper_volta_area = {}
+upper_yemen_area = {}
+upper_zambezi_area = {}
+ural_area = {}
+uticulo_makuana_area = {}
+utsang_area = {}
+valencia_area = {}
+vastra_gotaland_area = {}
+venetia_area = {}
+venezuela_area = {}
+vientiane_area = {}
+vietnam_area = {}
+visayas_area = {}
+vladimir_area = {}
+vogelkop_area = {}
+volga_area = {}
+volhynia_area = {}
+vologda_area = {}
+vorpommern_area = {}
+vostani_area = {}
+wales_area = {}
+wallachia_area = {}
+wallonia_area = {}
+weser_area = {}
+wessex_area = {}
+west_africa_coast_area = {}
+west_african_coast_sea_area = {}
+west_bengal_area = {}
+west_burgundy_area = {}
+west_dniepr_area = {}
+west_florida_area = {}
+west_gansu_area = {}
+west_guangdong_area = {}
+west_java_area = {}
+west_micronesia_area = {}
+west_midlands_area = {}
+west_mindanao_area = {}
+west_prussia_area = {}
+west_sao_paolo_area = {}
+western_australia_area = {}
+western_indian_ocean_area = {}
+western_kentucky_area = {}
+western_korea_area = {}
+western_llanos = {}
+western_mediterrenean_area = {}
+western_morocco_area = {}
+western_norway = {}
+western_sahara_area = {}
+western_sicily_area = {}
+westphalia_area = {}
+westsylvania_area = {}
+white_ruthenia_area = {}
+white_sea_area = {}
+wielkopolska_area = {}
+windward_islands_area = {}
+wisconsin_area = {}
+xilin_gol_area = {}
+yakutia_area = {}
+yamamah_area = {}
+yaroslavl_area = {}
+yedisan_area = {}
+yemen_area = {}
+yorkshire_area = {}
+yrtesh_area = {}
+yucatan_area = {}
+yun_gui_area = {}
+yun_gui_borderland_area = {}
+zacatecas_area = {}
+zambia_area = {}
+zaporizhia_area = {}
+zazzau_area = {}
+zhejiang_area = {}
+zimbabwe_area = {}
+zungaria_area = {}

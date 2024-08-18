@@ -1,0 +1,12 @@
+base_manpower = 7
+base_tax = 2
+base_production = 2
+
+
+native_size = 20                # The stack size of the natives that attack (make sure "is_city = no", or there will be zero natives appearing in a province)
+native_ferocity = 4             # How tough the native attack will be
+native_hostileness = 3          # How likely natives are to attack
+
+
+
+

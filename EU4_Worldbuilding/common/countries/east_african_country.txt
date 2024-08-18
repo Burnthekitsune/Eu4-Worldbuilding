@@ -1,0 +1,19 @@
+graphical_culture = westerngfx
+random_nation_chance = 0
+color = { 142 240 240 }
+historical_idea_groups = {	
+    administrative_ideas
+    quantity_ideas
+    defensive_ideas	
+    humanist_ideas
+    trade_ideas
+    quality_ideas
+    economic_ideas	
+    maritime_ideas
+}
+monarch_names = {
+    "Olga #0"
+}
+leader_names = {
+    Tropik Tropinin
+}

@@ -1,0 +1,5 @@
+technology_group = central_african
+government = republic
+religion = orthodox
+primary_culture = russian
+capital = 3

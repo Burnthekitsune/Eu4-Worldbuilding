@@ -1,0 +1,103 @@
+
+# Land superregions
+
+ranasiu_superregion = {
+	sheda_region kacwone_region copsontsota_region amppisraon_region ryisos_region gerhhese_region 
+}
+luqhrasa_superregion = {
+	dexusum_region toohn_region guesinle_region ogturnal_region dilnyss_region tcourte_region omile_region 
+}
+liosac_superregion = {
+	mansernhih_region tisdar_region nasete_region horter_region ditrer_region lyfmos_region 
+}
+lesforonni_superregion = {
+	serovo_region neveet_region glacrinibe_region ttetenne_region poove_region 
+}
+wjotatcien_superregion = {
+	rsitk_region suahh_region lsacpesg_region pralifefn_region givos_region risilutaen_region lumtur_region caleten_region setilve_region ymdhae_region 
+}
+sutlnawbe_superregion = {
+	titet_region hoanu_region tuwpca_region secla_region maditihe_region 
+}
+satnitg_superregion = {
+	pasor_region wroglt_region smesi_region eqyoh_region didpar_region saswe_region 
+}
+wostareda_superregion = {
+	hontt_region rnaum_region wbidang_region 
+}
+cudgog_superregion = {
+	sacbige_region vodik_region mlaot_region 
+}
+hehcertion_superregion = {
+	wurttusce_region ltark_region poevith_region rbihr_region onrose_region 
+}
+peifce_superregion = {
+	reppacr_region ctedett_region delornuon_region westnewi_region niofe_region tkohe_region llpikely_region 
+}
+edirgi_superregion = {
+	latifee_region neriga_region ycweve_region stiwis_region temoht_region 
+}
+wracgi_superregion = {
+	heohweb_region piotume_region fetlifniot_region cildige_region halocimetv_region 
+}
+rrona_superregion = {
+	padalry_region sunpte_region ndlitogo_region ssetl_region gaytel_region krofoh_region 
+}
+mehsa_superregion = {
+	tregfoc_region beiufowul_region gutatoes_region ttisce_region 
+}
+stetycn_superregion = {
+	teoknirs_region acarci_region ecgisi_region 
+}
+hamtuba_superregion = {
+	vobibsesoel_region setetfactee_region pofareel_region 
+}
+higwih_superregion = {
+	serva_region mistr_region chiifi_region 
+}
+anriutt_superregion = {
+	fovat_region rriln_region inufeenevu_region sintc_region 
+}
+tafsa_superregion = {
+	shabmoanshi_region soyht_region ensiheereng_region huugye_region usvestmywt_region 
+}
+
+# Sea superregions
+
+mogotiaxiec_sea_superregion = {
+	geega_sea_region pyrrig_sea_region dfouc_sea_region nairl_sea_region attygisg_sea_region nhyhe_sea_region frantopla_sea_region snymitc_sea_region 
+}
+plela_sea_superregion = {
+	driid_sea_region meennoep_sea_region seamger_sea_region xmidtong_sea_region riwkop_sea_region 
+}
+solesi_sea_superregion = {
+	unseah_sea_region bonfoliih_sea_region luelnint_sea_region ctaon_sea_region selbe_sea_region wtcacsure_sea_region hfush_sea_region 
+}
+nlaire_sea_superregion = {
+	rigee_sea_region nleed_sea_region wweand_sea_region 
+}
+africa_superregion = {}
+andes_superregion = {}
+central_america_superregion = {}
+china_superregion = {}
+east_african_sea_superregion = {}
+east_american_sea_superregion = {}
+east_indies_superregion = {}
+eastern_europe_superregion = {}
+europe_superregion = {}
+far_east_superregion = {}
+india_superregion = {}
+indian_pacific_sea_superregion = {}
+near_east_superregion = {}
+new_world_superregion = {}
+north_america_superregion = {}
+north_european_sea_superregion = {}
+north_pacific_sea_superregion = {}
+oceania_superregion = {}
+persia_superregion = {}
+south_america_superregion = {}
+south_european_sea_superregion = {}
+southern_africa_superregion = {}
+tartary_superregion = {}
+west_african_sea_superregion = {}
+west_american_sea_superregion = {}
