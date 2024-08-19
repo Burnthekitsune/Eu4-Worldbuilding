@@ -1,5 +1,0 @@
-technology_group = south_american
-government = republic
-religion = orthodox
-primary_culture = russian
-capital = 15

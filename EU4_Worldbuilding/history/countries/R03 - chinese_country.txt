@@ -1,5 +1,0 @@
-technology_group = chinese
-government = republic
-religion = orthodox
-primary_culture = russian
-capital = 4

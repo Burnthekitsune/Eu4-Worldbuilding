@@ -1,5 +1,0 @@
-technology_group = eastern
-government = republic
-religion = orthodox
-primary_culture = russian
-capital = 6

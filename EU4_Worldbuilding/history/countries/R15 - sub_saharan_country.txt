@@ -1,5 +1,0 @@
-technology_group = sub_saharan
-government = republic
-religion = orthodox
-primary_culture = russian
-capital = 16

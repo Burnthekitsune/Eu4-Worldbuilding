@@ -1,5 +1,0 @@
-technology_group = indian
-government = republic
-religion = orthodox
-primary_culture = russian
-capital = 8
