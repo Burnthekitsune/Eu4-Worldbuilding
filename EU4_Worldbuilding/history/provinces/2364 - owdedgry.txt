@@ -5,5 +5,6 @@ native_size = 20 # The stack size of the natives that attack (make sure "is_city
 native_ferocity = 4 # How tough the native attack will be
 native_hostileness = 3 # How likely natives are to attack
 hre = yes
+discovered_by = eastern
 religion = god_of_the_people
 culture = beshaedal

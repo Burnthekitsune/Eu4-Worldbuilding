@@ -1,6 +1,6 @@
 graphical_culture = easterngfx
 random_nation_chance = 0
-color = { 255 192 46 }
+color = { 59 6 105 }
 monarch_names = {
    
 }

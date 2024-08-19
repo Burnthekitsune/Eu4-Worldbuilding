@@ -6,3 +6,4 @@ native_ferocity = 4 # How tough the native attack will be
 native_hostileness = 3 # How likely natives are to attack
 religion = god_of_the_people
 culture = beshaedal
+discovered_by = eastern

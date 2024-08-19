@@ -6,3 +6,7 @@ native_ferocity = 4 # How tough the native attack will be
 native_hostileness = 3 # How likely natives are to attack
 religion = god_of_the_mountain
 culture = asmurg
+discovered_by = eastern
+owner = A01
+controller = A01
+add_core = A01
