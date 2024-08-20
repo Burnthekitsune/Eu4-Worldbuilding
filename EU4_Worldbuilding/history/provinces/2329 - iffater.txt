@@ -8,3 +8,4 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_people
 culture = beshaedal
+add_core = A03

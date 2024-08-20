@@ -23,6 +23,7 @@ breuvran = {
 		}
 	}
 	kolic = {
+		primary = A12
 		male_names = {
 		
 		}
@@ -34,6 +35,7 @@ breuvran = {
 		}
 	}
 	asmurg = {
+		primary = A01
 		male_names = {
 		
 		}
@@ -45,6 +47,7 @@ breuvran = {
 		}
 	}
 	eplean = {
+		primary = A02
 		male_names = {
 		
 		}
@@ -56,6 +59,7 @@ breuvran = {
 		}
 	}
 	beshaedal = {
+		primary = A03
 		male_names = {
 		
 		}
@@ -67,6 +71,7 @@ breuvran = {
 		}
 	}
 	lufluasian = {
+		primary = A06
 		male_names = {
 		
 		}
@@ -78,6 +83,7 @@ breuvran = {
 		}
 	}
 	shesal = {
+		primary = A04
 		male_names = {
 		
 		}
@@ -89,6 +95,7 @@ breuvran = {
 		}
 	}
 	scoetho = {
+		primary = A10
 		male_names = {
 		
 		}
@@ -100,6 +107,7 @@ breuvran = {
 		}
 	}
 	glesian = {
+		primary = A05
 		male_names = {
 		
 		}
@@ -111,6 +119,7 @@ breuvran = {
 		}
 	}
 	ubrean = {
+		primary = A11
 		male_names = {
 		
 		}
@@ -122,6 +131,7 @@ breuvran = {
 		}
 	}
 	musweyton = {
+		primary = A09
 		male_names = {
 		
 		}
@@ -133,6 +143,7 @@ breuvran = {
 		}
 	}
 	resnar = {
+		primary = A07
 		male_names = {
 		
 		}
@@ -144,6 +155,7 @@ breuvran = {
 		}
 	}
 	acran = {
+		primary = A08
 		male_names = {
 		
 		}

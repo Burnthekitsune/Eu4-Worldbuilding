@@ -1,0 +1,7 @@
+technology_group = eastern
+government = republic
+government_rank = 1
+mercantilism = 10
+religion = god_of_the_people
+primary_culture = beshaedal
+capital = 2934

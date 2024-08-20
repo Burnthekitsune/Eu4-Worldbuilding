@@ -9,3 +9,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = scoetho
+owner = A10
+controller = A10
+add_core = A10

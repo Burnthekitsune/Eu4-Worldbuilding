@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = lufluasian
+add_core = A06
+owner = A06
+controller = A06
