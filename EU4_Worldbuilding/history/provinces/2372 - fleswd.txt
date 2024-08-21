@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = shesal
+owner = A29
+controller = A29
+add_core = A29

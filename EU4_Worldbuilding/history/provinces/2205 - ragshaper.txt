@@ -8,6 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = kolic
-add_core = A12
+owner = A12
 controller = A12
 add_core = A12

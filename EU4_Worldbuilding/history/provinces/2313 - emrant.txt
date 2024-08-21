@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = ubrean
+owner = A14
+controller = A14
+add_core = A14

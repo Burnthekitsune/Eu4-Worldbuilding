@@ -9,3 +9,6 @@ discovered_by = eastern
 religion = god_of_the_people
 culture = beshaedal
 add_core = A03
+owner = A19
+controller = A19
+add_core = A19

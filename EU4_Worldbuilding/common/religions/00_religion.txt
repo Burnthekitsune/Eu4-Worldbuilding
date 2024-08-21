@@ -12,8 +12,6 @@ imperial = {
 		color = { 39 94 184 }
 		icon = 1
 		allowed_conversion = {
-			god_of_the_mountain
-			god_of_the_people
 			divine_union
 		}
 		country = {
@@ -44,8 +42,6 @@ imperial = {
 		color = { 97 57 5 }
 		icon = 2
 		allowed_conversion = {
-			god_of_the_sea
-			god_of_the_people
 			divine_union
 		}
 		country = {
@@ -74,8 +70,6 @@ imperial = {
 		color = { 0 161 86 }
 		icon = 3
 		allowed_conversion = {
-			god_of_the_sea
-			god_of_the_mountain
 			divine_union
 		}
 		country = {

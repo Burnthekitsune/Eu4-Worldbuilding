@@ -9,3 +9,6 @@ discovered_by = eastern
 religion = god_of_the_mountain
 culture = eplean
 add_core = A02
+owner = A27
+controller = A27
+add_core = A27

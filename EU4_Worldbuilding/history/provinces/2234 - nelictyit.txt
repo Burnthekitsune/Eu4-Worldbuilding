@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = utsano
+owner = A15
+controller = A15
+add_core = A15
