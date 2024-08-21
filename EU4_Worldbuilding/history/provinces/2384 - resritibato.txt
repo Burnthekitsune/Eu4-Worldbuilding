@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = acran
+owner = A43
+controller = A43
+add_core = A43

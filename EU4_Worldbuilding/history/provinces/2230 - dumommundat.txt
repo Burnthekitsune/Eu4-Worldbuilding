@@ -7,7 +7,6 @@ native_hostileness = 3 # How likely natives are to attack
 hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
-culture = scoetho
 culture = musweyton
 add_core = A09
 owner = A09

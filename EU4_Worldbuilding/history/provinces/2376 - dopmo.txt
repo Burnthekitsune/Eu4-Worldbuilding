@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = glesian
+owner = A34
+controller = A34
+add_core = A34

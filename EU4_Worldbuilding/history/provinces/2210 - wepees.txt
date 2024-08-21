@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = kolic
+owner = A42
+controller = A42
+add_core = A42

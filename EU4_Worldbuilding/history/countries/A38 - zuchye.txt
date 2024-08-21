@@ -1,0 +1,8 @@
+technology_group = eastern
+government = republic
+add_government_reform = free_city
+government_rank = 1
+mercantilism = 10
+religion = god_of_the_sea
+primary_culture = shesal
+capital = 2355

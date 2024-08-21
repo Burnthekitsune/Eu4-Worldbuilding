@@ -8,3 +8,6 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_sea
 culture = musweyton
+owner = A40
+controller = A40
+add_core = A40
