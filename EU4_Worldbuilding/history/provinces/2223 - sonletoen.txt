@@ -8,6 +8,7 @@ hre = yes
 discovered_by = eastern
 religion = god_of_the_mountain
 culture = eplean
+add_core = A02
 add_core = A13
 owner = A13
 controller = A13
