@@ -1,0 +1,21 @@
+technology_group = eastern
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 10
+religion = god_of_the_sea
+primary_culture = utsano
+capital = 2287
+fixed_capital = 2287
+1400.5.12 = {
+	monarch = {
+		name = "Irim"
+		dynasty = "Seasworn"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1391.1.31
+		religion = god_of_the_sea
+		culture = utsano
+	}
+}

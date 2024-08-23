@@ -1,8 +1,21 @@
 technology_group = eastern
 government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 10
 religion = god_of_the_mountain
 primary_culture = asmurg
 capital = 2354
 historical_friend = A02
+1438.12.8 = {
+	monarch = {
+		name = "Zudem"
+		dynasty = "Ashseeker"
+		adm = 2
+		dip = 2
+		mil = 6
+		birth_date = 1421.5.7
+		religion = god_of_the_mountain
+		culture = asmurg
+	}
+}
