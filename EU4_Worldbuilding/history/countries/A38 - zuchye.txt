@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2355
+1431.7.6 = {
+	monarch = {
+		name = "Sigril"
+		dynasty = "Stedz"
+		adm = 0
+		dip = 4
+		mil = 3
+		birth_date = 1414.1.19
+		religion = god_of_the_sea
+		culture = shesal
+	}
+}

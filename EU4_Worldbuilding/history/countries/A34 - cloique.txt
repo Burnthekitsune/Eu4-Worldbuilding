@@ -6,3 +6,16 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = glesian
 capital = 2392
+elector = yes
+1437.4.27 = {
+	monarch = {
+		name = "Zom"
+		dynasty = "Kennor"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1389.10.9
+		religion = god_of_the_sea
+		culture = glesian
+	}
+}

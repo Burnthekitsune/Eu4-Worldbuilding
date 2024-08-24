@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2386
+1438.5.13 = {
+	monarch = {
+		name = "Noi"
+		dynasty = "Cobrobri"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1397.9.29
+		religion = god_of_the_sea
+		culture = shesal
+	}
+}

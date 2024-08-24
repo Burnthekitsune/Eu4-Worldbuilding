@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = scoetho
 capital = 2259
+1434.12.12 = {
+	monarch = {
+		name = "Edrar"
+		dynasty = "Eastless"
+		adm = 0
+		dip = 3
+		mil = 4
+		birth_date = 1425.1.22
+		religion = god_of_the_sea
+		culture = scoetho
+	}
+}

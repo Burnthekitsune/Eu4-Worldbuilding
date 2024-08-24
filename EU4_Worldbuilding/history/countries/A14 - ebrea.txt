@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = ubrean
 capital = 2272
+1428.4.22 = {
+	monarch = {
+		name = "Pirtus"
+		dynasty = "Cliffhall"
+		adm = 6
+		dip = 4
+		mil = 1
+		birth_date = 1405.12.1
+		religion = god_of_the_sea
+		culture = ubrean
+	}
+}

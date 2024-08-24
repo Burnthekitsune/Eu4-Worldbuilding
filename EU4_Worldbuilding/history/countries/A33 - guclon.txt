@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = ubrean
 capital = 2270
+1413.3.14 = {
+	monarch = {
+		name = "Brurth"
+		dynasty = "Wildroot"
+		adm = 1
+		dip = 4
+		mil = 0
+		birth_date = 1405.7.1
+		religion = god_of_the_sea
+		culture = ubrean
+	}
+}

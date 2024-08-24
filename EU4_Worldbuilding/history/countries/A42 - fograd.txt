@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = kolic
 capital = 2202
+1437.2.15 = {
+	monarch = {
+		name = "Grun"
+		dynasty = "Lightstream"
+		adm = 0
+		dip = 3
+		mil = 4
+		birth_date = 1407.7.1
+		religion = god_of_the_sea
+		culture = kolic
+	}
+}

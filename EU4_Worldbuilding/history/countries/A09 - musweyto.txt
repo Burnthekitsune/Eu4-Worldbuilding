@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = musweyton
 capital = 2247
+1425.1.7 = {
+	monarch = {
+		name = "Hearez"
+		dynasty = "Fullerward"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1391.3.18
+		religion = god_of_the_sea
+		culture = musweyton
+	}
+}

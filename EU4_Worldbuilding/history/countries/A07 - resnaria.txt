@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = resnar
 capital = 2262
+1436.9.15 = {
+	monarch = {
+		name = "Tazes"
+		dynasty = "Foxwood"
+		adm = 5
+		dip = 5
+		mil = 0
+		birth_date = 1419.1.21
+		religion = god_of_the_sea
+		culture = resnar
+	}
+}

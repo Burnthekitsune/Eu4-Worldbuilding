@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = acran
 capital = 2384
+1417.6.2 = {
+	monarch = {
+		name = "Grervom"
+		dynasty = "Rosebone"
+		adm = 0
+		dip = 4
+		mil = 4
+		birth_date = 1387.10.14
+		religion = god_of_the_sea
+		culture = acran
+	}
+}

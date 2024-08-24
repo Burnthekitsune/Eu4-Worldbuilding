@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = glesian
 capital = 2319
+1425.4.7 = {
+	monarch = {
+		name = "Vin"
+		dynasty = "Rosensmith"
+		adm = 6
+		dip = 2
+		mil = 5
+		birth_date = 1406.5.27
+		religion = god_of_the_sea
+		culture = glesian
+	}
+}

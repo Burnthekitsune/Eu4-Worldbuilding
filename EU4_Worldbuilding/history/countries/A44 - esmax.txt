@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = acran
 capital = 2233
+1413.6.13 = {
+	monarch = {
+		name = "Breth"
+		dynasty = "Moonbrooke"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1393.4.29
+		religion = god_of_the_sea
+		culture = acran
+	}
+}

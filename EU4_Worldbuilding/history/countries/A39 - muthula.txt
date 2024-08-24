@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = resnar
 capital = 2389
+1420.8.8 = {
+	monarch = {
+		name = "Vur"
+		dynasty = "Grig"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1394.11.5
+		religion = god_of_the_sea
+		culture = resnar
+	}
+}

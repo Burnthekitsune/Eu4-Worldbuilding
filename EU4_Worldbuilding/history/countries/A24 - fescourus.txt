@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = scoetho
 capital = 2334
+1427.2.26 = {
+	monarch = {
+		name = "Blon"
+		dynasty = "Solidspear"
+		adm = 2
+		dip = 0
+		mil = 0
+		birth_date = 1422.1.25
+		religion = god_of_the_sea
+		culture = scoetho
+	}
+}

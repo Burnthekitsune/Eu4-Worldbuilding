@@ -6,3 +6,16 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = lufluasian
 capital = 2282
+elector = yes
+1440.5.27 = {
+	monarch = {
+		name = "Modof"
+		dynasty = "Kev"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 1414.7.10
+		religion = god_of_the_sea
+		culture = lufluasian
+	}
+}

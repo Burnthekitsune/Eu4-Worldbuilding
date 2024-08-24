@@ -6,3 +6,16 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = acran
 capital = 2394
+elector = yes
+1434.11.30 = {
+	monarch = {
+		name = "Tachur"
+		dynasty = "Humsley"
+		adm = 0
+		dip = 0
+		mil = 5
+		birth_date = 1422.8.15
+		religion = god_of_the_sea
+		culture = acran
+	}
+}

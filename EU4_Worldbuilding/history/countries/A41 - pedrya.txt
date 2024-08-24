@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = utsano
 capital = 2295
+1416.3.10 = {
+	monarch = {
+		name = "Sorlask"
+		dynasty = "Sunmore"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1387.8.3
+		religion = god_of_the_sea
+		culture = utsano
+	}
+}

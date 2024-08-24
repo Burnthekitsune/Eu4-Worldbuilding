@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2369
+1421.8.13 = {
+	monarch = {
+		name = "Frucai"
+		dynasty = "Forecomb"
+		adm = 6
+		dip = 2
+		mil = 6
+		birth_date = 1396.7.30
+		religion = god_of_the_sea
+		culture = shesal
+	}
+}

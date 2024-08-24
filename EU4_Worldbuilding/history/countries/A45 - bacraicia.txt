@@ -6,3 +6,16 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = utsano
 capital = 2201
+elector = yes
+1406.2.29 = {
+	monarch = {
+		name = "Hehmen"
+		dynasty = "Warsey"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 1397.1.12
+		religion = god_of_the_sea
+		culture = utsano
+	}
+}

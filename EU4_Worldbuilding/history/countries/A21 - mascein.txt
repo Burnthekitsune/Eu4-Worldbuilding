@@ -6,3 +6,15 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = scoetho
 capital = 2257
+1423.5.20 = {
+	monarch = {
+		name = "Sahmud"
+		dynasty = "Cerpea"
+		adm = 2
+		dip = 2
+		mil = 0
+		birth_date = 1406.1.24
+		religion = god_of_the_sea
+		culture = scoetho
+	}
+}
