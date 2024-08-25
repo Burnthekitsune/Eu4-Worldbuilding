@@ -1,7 +1,7 @@
 technology_group = eastern
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 2
 mercantilism = 10
 religion = god_of_the_mountain
 primary_culture = asmurg
