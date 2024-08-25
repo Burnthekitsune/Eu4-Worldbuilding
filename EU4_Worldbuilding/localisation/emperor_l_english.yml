@@ -438,7 +438,7 @@
  take_capital_force_join_hre_desc:3 "All provinces of $COUNTRY|Y$ and its subjects that can join the Empire in $CONTINENT|Y$ will become part of the empire. The Emperor will gain $AUTHORITY|G$ Imperial Authority."
  take_capital_force_join_hre_no_gain_desc:0 "All provinces of $COUNTRY|Y$ and its subjects that can join the Empire in $CONTINENT|Y$ will become part of the empire."
  take_capital_reintegrate_into_hre:0 "Take the Capital"
- take_capital_reintegrate_into_hre_desc:0 "All provinces of our enemy and its subjects that can join the Empire in Europe will become part of the empire."
+ take_capital_reintegrate_into_hre_desc:0 "All provinces of our enemy and its subjects that can join the Empire in Breuvran will become part of the empire."
  CB_ALLOWED_JOIN_EMPIRE:0 "Adding provinces to the Empire"
  JOIN_EMPIRE_TREATY_NAME:0 "Expand Empire"
  HRE_LEAVE_STILL_BOUND_BY_TREATY:0 "You are bound by a peace treaty to stay in the Empire until at least $UNTIL|Y$."
