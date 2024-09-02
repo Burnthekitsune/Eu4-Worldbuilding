@@ -10740,7 +10740,7 @@
  north_breuvra_trade: "North Breuvra"
  luyfwaeld_trade_cr: "Colonial Luyfwaeld"
  LUYFWAELD_TRADE_CR_Root_Culture_GetName: "[Root.GetAdjective] Luyfwaeld"
- north_breuvra_trade: "South Breuvra"
+ south_breuvra_trade: "South Breuvra"
  gtint_trade_cr: "Colonial Gtint"
  GTINT_TRADE_CR_Root_Culture_GetName: "[Root.GetAdjective] Gtint"
  wdodyh_trade: "Wdodyh"
