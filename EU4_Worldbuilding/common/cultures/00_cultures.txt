@@ -13,157 +13,287 @@ breuvran = {
 	utsano = {
 		primary = A00
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	kolic = {
 		primary = A12
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	asmurg = {
 		primary = A01
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	eplean = {
 		primary = A02
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	beshaedal = {
 		primary = A03
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	lufluasian = {
 		primary = A06
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	shesal = {
 		primary = A04
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	scoetho = {
 		primary = A10
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	glesian = {
 		primary = A05
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	ubrean = {
 		primary = A11
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	musweyton = {
 		primary = A09
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	resnar = {
 		primary = A07
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 	acran = {
 		primary = A08
 		male_names = {
-		
+			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
+			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
+			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
+			Grun Grervom Breth Hehmen
 		}
 		female_names = {
-			
+			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
+			Cezoh Yasnel Vothe Kalzen Atahloh Mussar Fereso Shifrath Bastrolra Hala Lifa
+			Zo Lasrun Servamme Keshivre Tes Arvuzna Damzu Relra
 		}
 		dynasty_names = {
-			
+			"Seasworn" "Ashseeker" "Loneoak" "Windfire" "Humsley" "Fullerward" "Twofall"
+			"Blazeroot" "Coppercomb" "Foxwood" "Cliffhall" "Emberkeep" "Radz" "Truthforest"
+			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
+			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
+			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight"
 		}
 	}
 }
