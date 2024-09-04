@@ -1,11 +1,9 @@
-base_manpower = 3
-base_tax = 3
-base_production = 3
-hre = yes
+base_manpower = 6
+base_tax = 4
+base_production = 5
 discovered_by = eastern
 religion = god_of_the_people
 culture = beshaedal
-add_core = A03
-owner = A17
-controller = A17
-add_core = A17
+owner = A46
+controller = A46
+add_core = A46

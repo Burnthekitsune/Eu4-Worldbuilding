@@ -1,0 +1,20 @@
+technology_group = eastern
+government = republic
+add_government_reform = pirate_republic_reform
+government_rank = 1
+mercantilism = 10
+religion = god_of_the_people
+primary_culture = beshaedal
+capital = 3032
+1443.6.22 = {
+	monarch = {
+		name = "Rel"
+		dynasty = "Whitewind"
+		adm = 2
+		dip = 6
+		mil = 6
+		birth_date = 1402.7.18
+		religion = god_of_the_people
+		culture = beshaedal
+	}
+}
