@@ -8,3 +8,4 @@ culture = shesal
 owner = A29
 controller = A29
 add_core = A29
+trade_goods = grain

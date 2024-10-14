@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = scoetho
 capital = 2259
+historical_friend = A23
 1434.12.12 = {
 	monarch = {
 		name = "Edrar"

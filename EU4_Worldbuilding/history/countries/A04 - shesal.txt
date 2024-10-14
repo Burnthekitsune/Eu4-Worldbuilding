@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2391
+historical_friend = A25
 elector = yes
 1414.6.18 = {
 	monarch = {

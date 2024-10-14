@@ -8,3 +8,4 @@ culture = shesal
 owner = A36
 controller = A36
 add_core = A36
+trade_goods = naval_supplies

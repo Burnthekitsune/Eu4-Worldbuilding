@@ -9,3 +9,4 @@ add_core = A01
 owner = A28
 controller = A28
 add_core = A28
+trade_goods = copper

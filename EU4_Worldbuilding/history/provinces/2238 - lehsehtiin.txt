@@ -9,3 +9,4 @@ culture = ubrean
 add_core = A11
 owner = A11
 controller = A11
+trade_goods = naval_supplies

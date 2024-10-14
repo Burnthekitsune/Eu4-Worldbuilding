@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = utsano
 capital = 2308
+historical_friend = A00
 1444.7.27 = {
 	monarch = {
 		name = "Grol"

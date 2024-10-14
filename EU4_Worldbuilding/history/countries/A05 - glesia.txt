@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = glesian
 capital = 2319
+historical_friend = A28
 1425.4.7 = {
 	monarch = {
 		name = "Vin"

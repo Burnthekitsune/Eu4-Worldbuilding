@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = glesian
 capital = 2392
+historical_friend = A18
 elector = yes
 1437.4.27 = {
 	monarch = {

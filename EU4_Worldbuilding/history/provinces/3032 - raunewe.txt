@@ -7,3 +7,4 @@ culture = beshaedal
 owner = A46
 controller = A46
 add_core = A46
+trade_goods = naval_supplies

@@ -1,0 +1,18 @@
+graphical_culture = easterngfx
+random_nation_chance = 0
+color = { 135 116 115 }
+monarch_names = {
+   
+}
+leader_names = {
+	
+}
+ship_names = {
+	
+}
+army_names = {
+	
+}
+fleet_names = {
+	
+}

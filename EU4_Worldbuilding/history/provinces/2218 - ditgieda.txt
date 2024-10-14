@@ -8,3 +8,4 @@ culture = resnar
 owner = A39
 controller = A39
 add_core = A39
+trade_goods = tropical_wood

@@ -8,3 +8,4 @@ culture = scoetho
 owner = A22
 controller = A22
 add_core = A22
+trade_goods = grain

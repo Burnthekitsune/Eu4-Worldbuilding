@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2382
+historical_friend = A37
 1431.5.17 = {
 	monarch = {
 		name = "Ruzad"

@@ -1,0 +1,39 @@
+alliance = {
+	first = A11
+	second = A47
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = A11
+	second = A33
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = A11
+	second = A16
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = A11
+	second = A22
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = A11
+	second = A23
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1821.1.1
+}

@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = glesian
 capital = 2280
+historical_friend = A05
 1443.2.14 = {
 	monarch = {
 		name = "Fearvea"

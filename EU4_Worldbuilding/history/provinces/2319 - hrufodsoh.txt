@@ -8,3 +8,5 @@ culture = glesian
 add_core = A05
 owner = A05
 controller = A05
+trade_goods = wool
+trade_goods = grain

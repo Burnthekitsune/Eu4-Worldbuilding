@@ -8,3 +8,4 @@ culture = utsano
 owner = A15
 controller = A15
 add_core = A15
+trade_goods = livestock

@@ -9,3 +9,4 @@ culture = scoetho
 owner = A10
 controller = A10
 add_core = A10
+trade_goods = fish

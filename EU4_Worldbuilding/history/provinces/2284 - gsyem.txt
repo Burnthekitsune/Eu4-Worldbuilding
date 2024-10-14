@@ -7,3 +7,4 @@ discovered_by = eastern
 owner = A02
 controller = A02
 add_core = A02
+trade_goods = iron

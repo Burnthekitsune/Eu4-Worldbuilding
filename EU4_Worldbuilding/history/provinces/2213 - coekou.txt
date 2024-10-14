@@ -8,3 +8,4 @@ culture = musweyton
 owner = A16
 controller = A16
 add_core = A16
+trade_goods = copper

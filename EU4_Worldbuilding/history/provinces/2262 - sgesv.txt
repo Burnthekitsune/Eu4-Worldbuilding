@@ -8,3 +8,4 @@ culture = resnar
 owner = A07
 controller = A07
 add_core = A07
+trade_goods = naval_supplies

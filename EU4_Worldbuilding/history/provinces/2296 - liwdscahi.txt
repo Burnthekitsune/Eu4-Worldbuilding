@@ -8,3 +8,4 @@ culture = kolic
 owner = A42
 controller = A42
 add_core = A42
+trade_goods = tropical_wood

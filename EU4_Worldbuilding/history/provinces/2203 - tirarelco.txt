@@ -8,3 +8,4 @@ culture = musweyton
 owner = A40
 controller = A40
 add_core = A40
+trade_goods = grain

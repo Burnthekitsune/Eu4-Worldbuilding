@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2282
+historical_friend = A36
 1439.11.12 = {
 	monarch = {
 		name = "Rurer"

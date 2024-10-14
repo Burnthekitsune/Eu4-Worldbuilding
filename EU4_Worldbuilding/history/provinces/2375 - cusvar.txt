@@ -8,3 +8,4 @@ culture = shesal
 add_core = A04
 owner = A04
 controller = A04
+trade_goods = tropical_wood

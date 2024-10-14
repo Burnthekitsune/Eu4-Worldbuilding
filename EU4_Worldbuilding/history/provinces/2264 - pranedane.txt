@@ -9,3 +9,4 @@ culture = lufluasian
 owner = A20
 controller = A20
 add_core = A20
+trade_goods = tropical_wood

@@ -8,3 +8,4 @@ culture = glesian
 owner = A34
 controller = A34
 add_core = A34
+trade_goods = tropical_wood

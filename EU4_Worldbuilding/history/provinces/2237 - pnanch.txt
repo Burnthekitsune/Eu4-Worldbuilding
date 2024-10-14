@@ -8,3 +8,4 @@ owner = A00
 controller = A00
 add_core = A00
 culture = utsano
+trade_goods = wool

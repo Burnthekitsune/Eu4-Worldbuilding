@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = glesian
 capital = 2331
+historical_friend = A34
 1442.8.23 = {
 	monarch = {
 		name = "Komat"

@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = scoetho
 capital = 2261
+historical_friend = A22
 1426.1.22 = {
 	monarch = {
 		name = "Iung"

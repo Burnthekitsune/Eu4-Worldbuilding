@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2369
+historical_friend = A17
 1421.8.13 = {
 	monarch = {
 		name = "Frucai"

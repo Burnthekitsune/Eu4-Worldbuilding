@@ -8,3 +8,4 @@ culture = scoetho
 owner = A24
 controller = A24
 add_core = A24
+trade_goods = naval_supplies

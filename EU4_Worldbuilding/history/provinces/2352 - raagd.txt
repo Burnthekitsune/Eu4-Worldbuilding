@@ -9,3 +9,4 @@ add_core = A02
 add_core = A13
 owner = A13
 controller = A13
+trade_goods = fish

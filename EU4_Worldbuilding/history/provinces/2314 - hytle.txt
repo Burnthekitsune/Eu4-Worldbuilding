@@ -8,3 +8,4 @@ culture = lufluasian
 add_core = A06
 owner = A06
 controller = A06
+trade_goods = grain

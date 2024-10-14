@@ -8,3 +8,4 @@ culture = ubrean
 owner = A31
 controller = A31
 add_core = A31
+trade_goods = naval_supplies

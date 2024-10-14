@@ -8,3 +8,4 @@ culture = acran
 add_core = A08
 owner = A08
 controller = A08
+trade_goods = naval_supplies

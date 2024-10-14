@@ -16,7 +16,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -29,7 +29,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	kolic = {
@@ -38,7 +38,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -51,7 +51,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	asmurg = {
@@ -60,7 +60,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -73,7 +73,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	eplean = {
@@ -82,7 +82,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -95,7 +95,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	beshaedal = {
@@ -104,7 +104,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -117,7 +117,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	lufluasian = {
@@ -126,7 +126,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -139,7 +139,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	shesal = {
@@ -148,7 +148,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -161,7 +161,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	scoetho = {
@@ -170,7 +170,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -183,7 +183,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	glesian = {
@@ -192,7 +192,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -205,7 +205,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	ubrean = {
@@ -214,7 +214,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -227,7 +227,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	musweyton = {
@@ -236,7 +236,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -249,7 +249,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	resnar = {
@@ -258,7 +258,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -271,7 +271,7 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
 		}
 	}
 	acran = {
@@ -280,7 +280,7 @@ breuvran = {
 			Irim Zudem Fin Ruthof Zusum Vin Tobias Tazes Tachur Hearez Grom Ruhlem Shiom Sturth
 			Pirtus Dosvad Glan Ruzad Komat Grol Lur Sahmud Edrar Iung Blon Hom Dakrum Wiclef
 			Fearvea Rurer Modof Fen Urdur Brurth Zom Noi Fobral Frucai Sigril Vur Vorvon Sorlask
-			Grun Grervom Breth Hehmen Rel
+			Grun Grervom Breth Hehmen Rel Om
 		}
 		female_names = {
 			Nulossa Kilsa Ro Cega Taoha Afah Catha Nishoh Nia Sond Sushu Jia Iloy Neihroh Tsua
@@ -293,7 +293,83 @@ breuvran = {
 			"Cerpea" "Eastless" "Grev" "Solidspear" "Waterwatcher" "Cloudwind" "Humford"
 			"Rosensmith" "Kev" "Feathershield" "Dazrahr" "Wildroot" "Kennor" "Cobrobri"
 			"Wisegrip" "Forecomb" "Stedz" "Grig" "Amberwin" "Sunmore" "Lightstream"
-			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind"
+			"Rosebone" "Moonbrooke" "Warsey" "Emberblight" "Whitewind" "Kudan"
+		}
+	}
+}
+mivrasian = {
+	graphical_culture = westerngfx
+	
+	ibbeti = {
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	oatpash = {
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	ilfan = {
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	acrye = {
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	tesplait = {
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
+		}
+	}
+	noplait = {
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		dynasty_names = {
+			
 		}
 	}
 }

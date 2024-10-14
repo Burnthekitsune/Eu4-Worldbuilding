@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = shesal
 capital = 2341
+historical_friend = A29
 1406.5.19 = {
 	monarch = {
 		name = "Fobral"

@@ -8,3 +8,4 @@ culture = lufluasian
 owner = A27
 controller = A27
 add_core = A27
+trade_goods = iron

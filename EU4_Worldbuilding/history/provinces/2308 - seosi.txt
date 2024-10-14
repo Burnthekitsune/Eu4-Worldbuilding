@@ -9,3 +9,4 @@ add_core = A03
 owner = A19
 controller = A19
 add_core = A19
+trade_goods = naval_supplies

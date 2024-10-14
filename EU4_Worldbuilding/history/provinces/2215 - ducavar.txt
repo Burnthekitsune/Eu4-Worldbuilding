@@ -8,3 +8,4 @@ culture = utsano
 owner = A41
 controller = A41
 add_core = A41
+trade_goods = tropical_wood

@@ -9,3 +9,4 @@ add_core = A03
 owner = A18
 controller = A18
 add_core = A18
+trade_goods = grain

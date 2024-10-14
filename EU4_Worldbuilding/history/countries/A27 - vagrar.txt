@@ -6,6 +6,7 @@ mercantilism = 10
 religion = god_of_the_sea
 primary_culture = lufluasian
 capital = 2283
+historical_friend = A06
 1393.9.21 = {
 	monarch = {
 		name = "Wiclef"

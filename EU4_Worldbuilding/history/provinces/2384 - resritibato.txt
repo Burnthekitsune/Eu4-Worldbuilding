@@ -8,3 +8,4 @@ culture = acran
 owner = A43
 controller = A43
 add_core = A43
+trade_goods = tropical_wood

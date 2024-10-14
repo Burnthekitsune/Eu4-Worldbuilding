@@ -7,3 +7,4 @@ discovered_by = eastern
 owner = A01
 controller = A01
 add_core = A01
+trade_goods = gems
