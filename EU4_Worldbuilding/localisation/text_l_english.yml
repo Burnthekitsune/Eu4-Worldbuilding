@@ -8198,3 +8198,5 @@
  HAS_MORE_MANDATE_THAN_TRIBUTARY_HAS_DEV:0 "Have Mandate of at least of §Y0.4 of [From.GetName]'s§! Total Development"
  conversion_variable:0 "[Root.num_converted_religion.GetValue]"
  conversion_variable_zero:0 "0"
+ SHATTEREDISLAND_NAME: "The Shattered Continent"
+ SHATTEREDISLAND_DESC: "Breuvra was once a unified continent, but after years of civil war and religious tension, have lead some parts to break away, as well as a far more decentralized power structure for the rest. A recent war has seen most of the land reclaimed and put under Imperial Marches, but their hold is tenious at best. Estana hold control of the imperial throne. In the north Epleania and Asmur hold strong in the mountain strongholds against the empire. Off the coast the republic of Beshaeda and the Esmary pirates stand in defience against the concept of a monarchy. The republic of Ubrea has been recently seeking out new trading oppertunity."

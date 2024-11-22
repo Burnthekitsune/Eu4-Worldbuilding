@@ -1,0 +1,18 @@
+bookmark = {
+	name = "SHATTEREDISLAND_NAME"
+	desc = "SHATTEREDISLAND_DESC"
+	date = 1444.11.11
+	
+	center = 2287
+	
+	
+	country = A00 # Estana
+	country = A03 # Beshaeda
+	country = A02 # Epleania
+	country = A01 # Asmur
+	country = A11 # Ubrea
+	country = A46 # Esmary
+	
+	easy_country = A00 # Estana
+	
+}
