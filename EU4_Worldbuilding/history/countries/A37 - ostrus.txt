@@ -19,3 +19,15 @@ historical_friend = A17
 		culture = shesal
 	}
 }
+1442.1.27 = {
+	heir = {
+		name = "Rel"
+		dynasty = "Forecomb"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1422.9.16
+		religion = god_of_the_sea
+		culture = shesal
+	}
+}

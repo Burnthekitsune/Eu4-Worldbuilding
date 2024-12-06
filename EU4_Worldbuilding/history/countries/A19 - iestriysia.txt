@@ -19,3 +19,15 @@ historical_friend = A00
 		culture = utsano
 	}
 }
+1435.3.11 = {
+	heir = {
+		name = "Grervom"
+		dynasty = "Seasworn"
+		adm = 0
+		dip = 3
+		mil = 5
+		birth_date = 1428.9.1
+		religion = god_of_the_sea
+		culture = utsano
+	}
+}

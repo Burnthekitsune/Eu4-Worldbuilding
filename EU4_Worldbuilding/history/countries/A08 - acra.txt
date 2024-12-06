@@ -19,3 +19,15 @@ elector = yes
 		culture = acran
 	}
 }
+1430.12.21 = {
+	heir = {
+		name = "Modof"
+		dynasty = "Humsley"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1427.8.14
+		religion = god_of_the_sea
+		culture = acran
+	}
+}

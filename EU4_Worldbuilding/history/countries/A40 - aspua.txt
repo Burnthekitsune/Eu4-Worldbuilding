@@ -18,3 +18,15 @@ capital = 2226
 		culture = musweyton
 	}
 }
+1439.4.8 = {
+	heir = {
+		name = "Vorvon"
+		dynasty = "Amberwin"
+		adm = 0
+		dip = 4
+		mil = 3
+		birth_date = 1426.9.11
+		religion = god_of_the_sea
+		culture = musweyton
+	}
+}

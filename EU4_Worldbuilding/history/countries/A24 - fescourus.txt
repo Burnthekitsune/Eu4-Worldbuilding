@@ -18,3 +18,15 @@ capital = 2334
 		culture = scoetho
 	}
 }
+1443.1.19 = {
+	heir = {
+		name = "Vorvon"
+		dynasty = "Solidspear"
+		adm = 3
+		dip = 1
+		mil = 6
+		birth_date = 1441.4.15
+		religion = god_of_the_sea
+		culture = scoetho
+	}
+}

@@ -19,3 +19,15 @@ historical_friend = A36
 		culture = shesal
 	}
 }
+1435.6.10 = {
+	heir = {
+		name = "Sorlask"
+		dynasty = "Wisegrip"
+		adm = 0
+		dip = 3
+		mil = 3
+		birth_date = 1433.1.30
+		religion = god_of_the_sea
+		culture = shesal
+	}
+}

@@ -19,3 +19,15 @@ historical_friend = A04
 		culture = shesal
 	}
 }
+1440.5.16 = {
+	heir = {
+		name = "Komat"
+		dynasty = "Waterwatcher"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1438.5.23
+		religion = god_of_the_sea
+		culture = shesal
+	}
+}

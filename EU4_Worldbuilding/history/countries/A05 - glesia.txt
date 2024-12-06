@@ -19,3 +19,15 @@ historical_friend = A28
 		culture = glesian
 	}
 }
+1444.1.6 = {
+	heir = {
+		name = "Rel"
+		dynasty = "Rosensmith"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1442.10.24
+		religion = god_of_the_sea
+		culture = glesian
+	}
+}

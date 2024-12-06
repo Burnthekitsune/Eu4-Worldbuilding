@@ -18,3 +18,15 @@ capital = 2202
 		culture = kolic
 	}
 }
+1434.3.29 = {
+	heir = {
+		name = "Grun"
+		dynasty = "Lightstream"
+		adm = 0
+		dip = 2
+		mil = 5
+		birth_date = 1429.12.4
+		religion = god_of_the_sea
+		culture = kolic
+	}
+}

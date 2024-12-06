@@ -19,3 +19,15 @@ historical_friend = A07
 		culture = resnar
 	}
 }
+1435.4.1 = {
+	heir = {
+		name = "Shiom"
+		dynasty = "Foxwood"
+		adm = 1
+		dip = 4
+		mil = 0
+		birth_date = 1422.8.5
+		religion = god_of_the_sea
+		culture = resnar
+	}
+}

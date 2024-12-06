@@ -18,3 +18,15 @@ capital = 2233
 		culture = acran
 	}
 }
+1440.9.28 = {
+	heir = {
+		name = "Urdur"
+		dynasty = "Moonbrooke"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1438.7.7
+		religion = god_of_the_sea
+		culture = acran
+	}
+}

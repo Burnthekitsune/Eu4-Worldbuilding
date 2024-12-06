@@ -19,3 +19,15 @@ historical_friend = A29
 		culture = shesal
 	}
 }
+1435.7.29 = {
+	heir = {
+		name = "Wiclef"
+		dynasty = "Wisegrip"
+		adm = 6
+		dip = 0
+		mil = 6
+		birth_date = 1427.10.12
+		religion = god_of_the_sea
+		culture = shesal
+	}
+}

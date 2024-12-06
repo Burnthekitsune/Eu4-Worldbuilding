@@ -19,3 +19,15 @@ historical_friend = A05
 		culture = glesian
 	}
 }
+1443.8.23 = {
+	heir = {
+		name = "Zudem"
+		dynasty = "Rosensmith"
+		adm = 1
+		dip = 2
+		mil = 6
+		birth_date = 1441.10.21
+		religion = god_of_the_sea
+		culture = glesian
+	}
+}

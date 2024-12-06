@@ -19,3 +19,15 @@ historical_friend = A02
 		culture = asmurg
 	}
 }
+1439.5.14 = {
+	heir = {
+		name = "Urdur"
+		dynasty = "Ashseeker"
+		adm = 2
+		dip = 0
+		mil = 3
+		birth_date = 1433.10.9
+		religion = god_of_the_mountain
+		culture = asmurg
+	}
+}

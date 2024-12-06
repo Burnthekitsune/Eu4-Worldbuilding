@@ -19,3 +19,15 @@ historical_friend = A34
 		culture = glesian
 	}
 }
+1442.12.26 = {
+	heir = {
+		name = "Lur"
+		dynasty = "Kennor"
+		adm = 0
+		dip = 6
+		mil = 6
+		birth_date = 1439.12.17
+		religion = god_of_the_sea
+		culture = glesian
+	}
+}

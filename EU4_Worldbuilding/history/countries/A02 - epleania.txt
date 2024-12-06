@@ -19,3 +19,15 @@ historical_friend = A01
 		culture = eplean
 	}
 }
+1434.9.16 = {
+	heir = {
+		name = "Grom"
+		dynasty = "Loneoak"
+		adm = 0
+		dip = 6
+		mil = 0
+		birth_date = 1429.8.20
+		religion = god_of_the_mountain
+		culture = eplean
+	}
+}
